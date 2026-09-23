@@ -19,14 +19,14 @@ Antes de redactar una sola palabra, lee estos archivos en este orden:
 
 1. **El documento de voz del perfil que te han asignado** — nunca improvises la voz,
    nunca mezcles estilos entre perfiles:
-   - Visual Trans empresa → `Voz_VT.txt`
-   - Cecilio Labrada → `Voz_Ceci.txt`
-   - Emma González → `Voz_Emma.txt`
-   - Enrique Saa → `Voz_Enrique.txt`
-   - Laura Díaz → `Voz_Laura.txt`
-2. `Contexto_Visual_Trans.txt` — productos, propuesta de valor, beneficios, argumentario.
-3. `Pains_Unificados.txt` — descripción completa de cada pain para usarlo en la redacción.
-4. `output/[mes]/calendario.md` — identifica solo las filas cuyo Perfil coincida con
+   - Visual Trans empresa → `linkedin/Voz_VT.txt`
+   - Cecilio Labrada → `linkedin/Voz_Ceci.txt`
+   - Emma González → `linkedin/Voz_Emma.txt`
+   - Enrique Saa → `linkedin/Voz_Enrique.txt`
+   - Laura Díaz → `linkedin/Voz_Laura.txt`
+2. `linkedin/Contexto_Visual_Trans.txt` — productos, propuesta de valor, beneficios, argumentario.
+3. `linkedin/Pains_Unificados.txt` — descripción completa de cada pain para usarlo en la redacción.
+4. `linkedin/output/[mes]/calendario.md` — identifica solo las filas cuyo Perfil coincida con
    el que te ha asignado el orquestador.
 
 El documento de voz de cada perfil incluye su propia sección de "Reglas de
@@ -59,8 +59,8 @@ ni siquiera un borrador o esbozo. Ni una línea de contenido.
   de Visual Trans.
 - Nunca lenguaje de ventas directo: prohibido "contrata", "descuento", "compra
   ahora" y equivalentes.
-- Los datos, cifras y ejemplos deben ser coherentes con `Contexto_Visual_Trans.txt` y
-  `Pains_Unificados.txt`. No inventes cifras que no estén respaldadas por esos
+- Los datos, cifras y ejemplos deben ser coherentes con `linkedin/Contexto_Visual_Trans.txt` y
+  `linkedin/Pains_Unificados.txt`. No inventes cifras que no estén respaldadas por esos
   archivos o por el tema/enfoque indicado en el calendario.
 - Respeta los rangos de longitud específicos del perfil (están en su documento de
   voz, sección "Longitud óptima" o equivalente) — son distintos para cada perfil y
@@ -78,8 +78,8 @@ es la responsabilidad de otra invocación de este mismo agente.
 
 ## Salida
 
-Escribe un archivo por perfil: `output/[mes]/posts/[perfil-en-minusculas-sin-tildes].md`
-(ej. `output/[mes]/posts/cecilio.md`, `output/[mes]/posts/visual-trans.md`).
+Escribe un archivo por perfil: `linkedin/output/[mes]/posts/[perfil-en-minusculas-sin-tildes].md`
+(ej. `linkedin/output/[mes]/posts/cecilio.md`, `linkedin/output/[mes]/posts/visual-trans.md`).
 
 Cada post dentro del archivo, con esta estructura exacta:
 
@@ -100,5 +100,5 @@ FORMATO: [texto / imagen / multiimagen]
 
 Al final del archivo añade una sección `## Notas de redacción para el log` si tomaste
 alguna decisión no trivial (p. ej. "no había dato exacto en euros para el pain #11 en
-esta fecha, se usó el ejemplo genérico de Contexto_Visual_Trans.txt en su lugar"). Si
+esta fecha, se usó el ejemplo genérico de linkedin/Contexto_Visual_Trans.txt en su lugar"). Si
 no hay nada que anotar, omite la sección.

@@ -18,6 +18,11 @@ migrarse aquí es el sistema de contenido de LinkedIn (ver más abajo).
      descripción.
   2. Pidiéndolo explícitamente por su nombre ("usa el agente X para
      ...", "habla directamente con X").
+  La invocación es siempre por el campo `name` del agente, sea cual
+  sea la carpeta donde viva el archivo — Claude Code descubre
+  subagentes de forma recursiva dentro de `.claude/agents/`, así que
+  los de un mismo sistema se agrupan en su propia subcarpeta (p. ej.
+  `.claude/agents/linkedin/`) sin que eso afecte a cómo se invocan.
 - `.claude/commands/` — comandos de barra (`/nombre-comando`) que
   actúan como orquestadores de un flujo concreto, invocando a varios
   subagentes en orden. `/pipeline-mensual` es el primero.
@@ -63,7 +68,7 @@ del calendario mensual antes de redactar ningún post. Objetivo de negocio:
 ```
 
 Una sola invocación ejecuta todo el flujo de principio a fin: procesa
-`INBOX.md`, investiga tendencias/normativas/eventos del mes, construye el
+`linkedin/INBOX.md`, investiga tendencias/normativas/eventos del mes, construye el
 calendario, redacta los posts de los 5 perfiles, genera una presentación
 (.pptx) con un post por diapositiva para revisión visual, y los valida
 contra las restricciones absolutas. No pide confirmación en ningún punto
@@ -79,44 +84,48 @@ comitea y pushea automáticamente a `main` sin pedir confirmación en cada
 paso (ver "Git y entrega continua" más abajo) — esta rama es compartida
 con el orquestador y el resto de agentes de este repo.
 
-### Tu único trabajo manual: `INBOX.md`
+### Tu único trabajo manual: `linkedin/INBOX.md`
 
 Escribe ahí, en cualquier momento, cualquier cosa suelta: una noticia, un
 evento nuevo, un cambio de tono para un perfil, un pain nuevo, una campaña
 que se activa, un caso de éxito disponible. Sin formato obligatorio, solo
 con fecha delante. La próxima vez que corra `/pipeline-mensual`, el
 `agente-archivista` la clasifica, la incorpora al archivo estructurado
-correspondiente y la mueve a `INBOX_procesado.md` con fecha de proceso
+correspondiente y la mueve a `linkedin/INBOX_procesado.md` con fecha de proceso
 (histórico, nunca se borra). No hace falta tocar ningún otro archivo ni
 relanzar nada aparte del comando habitual.
 
 ### Dónde viven los datos de este sistema
 
 ```
-/INBOX.md                      ← tú escribes aquí libremente
-/INBOX_procesado.md            ← histórico de lo ya incorporado (auditable)
-/Contexto_Visual_Trans.txt     ← productos, propuesta de valor, argumentario
-/Pains_Unificados.txt          ← los pains numerados con descripción completa
-/Eventos_Campañas.txt          ← ferias, webinars, lanzamientos, normativas con fecha, campañas
-/Voz_VT.txt                    ← documento de voz — Visual Trans (empresa)
-/Voz_Ceci.txt                  ← documento de voz — Cecilio Labrada
-/Voz_Emma.txt                  ← documento de voz — Emma González
-/Voz_Enrique.txt               ← documento de voz — Enrique Saa
-/Voz_Laura.txt                 ← documento de voz — Laura Díaz
-/output/[mes-año]/briefing.md          ← investigación del mes
-/output/[mes-año]/calendario.md        ← calendario completo en markdown
-/output/[mes-año]/posts/[perfil].md    ← posts redactados, uno por perfil
-/output/[mes-año]/validacion.md        ← informe del agente-validador
-/output/[mes-año]/log-decisiones.md    ← auditoría de decisiones autónomas
+/linkedin/INBOX.md                      ← tú escribes aquí libremente
+/linkedin/INBOX_procesado.md            ← histórico de lo ya incorporado (auditable)
+/linkedin/Contexto_Visual_Trans.txt     ← productos, propuesta de valor, argumentario
+/linkedin/Pains_Unificados.txt          ← los pains numerados con descripción completa
+/linkedin/Eventos_Campañas.txt          ← ferias, webinars, lanzamientos, normativas con fecha, campañas
+/linkedin/Voz_VT.txt                    ← documento de voz — Visual Trans (empresa)
+/linkedin/Voz_Ceci.txt                  ← documento de voz — Cecilio Labrada
+/linkedin/Voz_Emma.txt                  ← documento de voz — Emma González
+/linkedin/Voz_Enrique.txt               ← documento de voz — Enrique Saa
+/linkedin/Voz_Laura.txt                 ← documento de voz — Laura Díaz
+/linkedin/output/[mes-año]/briefing.md          ← investigación del mes
+/linkedin/output/[mes-año]/calendario.md        ← calendario completo en markdown
+/linkedin/output/[mes-año]/posts/[perfil].md    ← posts redactados, uno por perfil
+/linkedin/output/[mes-año]/validacion.md        ← informe del agente-validador
+/linkedin/output/[mes-año]/log-decisiones.md    ← auditoría de decisiones autónomas
 ```
 
-Estos archivos de datos (voz, contexto, pains, eventos, inbox) viven en la
-**raíz de este repo**, no dentro de `.claude/`, porque los subagentes los
-leen con una ruta simple y relativa (`Read Voz_Ceci.txt`) — así se hizo en
-el sistema original y se ha mantenido igual en la migración para no romper
-esas rutas. Si en el futuro se añaden agentes de otras áreas del negocio
-con sus propios ficheros de datos, conviene darles su propia carpeta en
-vez de sumarlos también a la raíz.
+Estos archivos de datos (voz, contexto, pains, eventos, inbox, output) se
+reorganizaron el 2026-09-23 de la raíz del repo a `linkedin/`, para no
+llenar la raíz de ficheros propios de un solo sistema a medida que se
+añadan más agentes de otras áreas. Los subagentes los leen con una ruta
+relativa desde la raíz del repo (`Read linkedin/Voz_Ceci.txt`) — mover el
+archivo de definición de un subagente a una subcarpeta de
+`.claude/agents/` no cambia estas rutas, porque se resuelven contra el
+directorio de trabajo del proyecto, no contra dónde vive el `.md` del
+agente. Si en el futuro se añaden agentes de otras áreas del negocio con
+sus propios ficheros de datos, dales su propia carpeta en la raíz (p. ej.
+`atencion-cliente/`) siguiendo este mismo patrón.
 
 ### Arquitectura de agentes
 
@@ -128,12 +137,12 @@ mantiene el log de decisiones. Es distinto del agente **orquestador**
 general de este repo (ver arriba), que coordina entre sistemas de agentes,
 no dentro de uno.
 
-**Subagentes** (`.claude/agents/`), cada uno con contexto aislado y
-responsabilidad única:
+**Subagentes** (`.claude/agents/linkedin/`), cada uno con contexto
+aislado y responsabilidad única:
 
 | Agente | Responsabilidad |
 |---|---|
-| `agente-archivista` | Procesa `INBOX.md`, clasifica y vuelca a los archivos estructurados |
+| `agente-archivista` | Procesa `linkedin/INBOX.md`, clasifica y vuelca a los archivos estructurados |
 | `agente-investigador` | Investiga tendencias, normativas, ferias y decide el pain prioritario del mes |
 | `agente-calendario` | Construye el calendario aplicando pilares, no-solapamiento de pains y asignación por perfil; lo envía como Google Sheets por correo a `arivas@visualtrans.com` |
 | `agente-redactor` | Redacta los posts de un perfil concreto (se invoca 1 vez por perfil, parametrizado, en paralelo) |
@@ -156,13 +165,13 @@ toca y qué documento de voz debe leer.
 - Asignación de pains por perfil según voz y audiencia (ver
   `agente-calendario.md`).
 - Patrones de alto rendimiento específicos por perfil (ver cada
-  `Voz_[perfil].txt`).
+  `linkedin/Voz_[perfil].txt`).
 - Restricciones absolutas: nunca lenguaje de venta directa, solo días
   laborables, cierres obligatorios por perfil, voz nunca improvisada ni
   mezclada entre perfiles.
 
-Estas reglas viven repartidas entre los documentos de voz (`Voz_*.txt`),
-los datos de negocio (`Contexto_Visual_Trans.txt`, `Pains_Unificados.txt`)
+Estas reglas viven repartidas entre los documentos de voz (`linkedin/Voz_*.txt`),
+los datos de negocio (`linkedin/Contexto_Visual_Trans.txt`, `linkedin/Pains_Unificados.txt`)
 y las reglas de distribución fijas embebidas en `agente-calendario.md` —
 no hace falta mantener una copia separada: cada subagente lee lo que
 necesita de estos archivos en tiempo de ejecución.
@@ -182,7 +191,7 @@ protecciones generales de git siguen intactas: nunca `--force`, nunca
 ### Auditoría
 
 Cada ejecución del pipeline genera su propio
-`output/[mes-año]/log-decisiones.md` con todo lo que antes requería
+`linkedin/output/[mes-año]/log-decisiones.md` con todo lo que antes requería
 aprobación manual: qué tendencias se eligieron y por qué, qué pain se
 priorizó, qué entradas de INBOX quedaron marcadas como "requiere revisión",
 y el resultado de la validación final. El pipeline nunca se detiene a

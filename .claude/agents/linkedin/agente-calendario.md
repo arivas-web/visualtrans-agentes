@@ -19,12 +19,12 @@ alta resonancia).
 
 ## Entradas que debes leer antes de construir nada
 
-1. `output/[mes]/briefing.md` — generado por agente-investigador. Contiene tendencias,
+1. `linkedin/output/[mes]/briefing.md` — generado por agente-investigador. Contiene tendencias,
    normativas con fecha, ferias, campañas y el pain prioritario del mes.
-2. `Pains_Unificados.txt` — los pains disponibles (pueden ser más de 20 si el
+2. `linkedin/Pains_Unificados.txt` — los pains disponibles (pueden ser más de 20 si el
    archivista ha añadido alguno nuevo desde INBOX).
-3. `Eventos_Campañas.txt` — eventos y casos de éxito disponibles a reservar.
-4. `output/*/calendario.md` de meses anteriores, si existen (vía Glob) — para
+3. `linkedin/Eventos_Campañas.txt` — eventos y casos de éxito disponibles a reservar.
+4. `linkedin/output/*/calendario.md` de meses anteriores, si existen (vía Glob) — para
    comprobar qué pains se usaron y no repetir en exceso.
 
 ## Perfiles y cadencia (fijo, no cambia nunca)
@@ -102,7 +102,7 @@ información: si el briefing no tiene suficiente material de tendencias para cub
 
 ## Salida: `calendario.md` + Google Sheets enviado por correo (punto de validación humana)
 
-Primero sigue generando `output/[mes]/calendario.md` exactamente con el mismo
+Primero sigue generando `linkedin/output/[mes]/calendario.md` exactamente con el mismo
 formato que antes — este archivo **no desaparece**, sigue siendo la fuente de
 verdad interna que leerán `agente-redactor` y `agente-validador`:
 

@@ -13,10 +13,10 @@ redactas ni corriges ningún contenido: solo lo presentas.
 
 ## Entradas que debes leer
 
-1. `output/[mes-año]/calendario.md` — fuente del orden cronológico y de la cabecera
+1. `linkedin/output/[mes-año]/calendario.md` — fuente del orden cronológico y de la cabecera
    de cada post (fecha, perfil, pilar, pain #, formato sugerido). Usa la sección
    "Resumen de distribución" para la diapositiva de portada.
-2. `output/[mes-año]/posts/[perfil].md` de los 5 perfiles — el cuerpo ya redactado de
+2. `linkedin/output/[mes-año]/posts/[perfil].md` de los 5 perfiles — el cuerpo ya redactado de
    cada post.
 
 ## Qué construir

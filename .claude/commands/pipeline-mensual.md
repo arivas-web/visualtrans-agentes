@@ -33,7 +33,7 @@ siguiente al actual).
 El sistema anterior tenía dos puntos de parada obligatoria: (1) responder preguntas
 de briefing, (2) esperar OK al calendario antes de redactar. El punto (1) sigue
 **eliminado**: tu trabajo en la Fase 1 es tomar las mejores decisiones posibles con
-la información disponible (INBOX, datos históricos en `output/`, calendario de
+la información disponible (INBOX, datos históricos en `linkedin/output/`, calendario de
 eventos del sector, campañas activas) y **documentarlas** para auditoría posterior,
 sin preguntar nada al usuario.
 
@@ -47,9 +47,9 @@ claramente, no lo simules.
 
 ## Preparación
 
-1. Determina la carpeta de salida: `output/[mes-año]/` (ej. `output/2026-10/`).
-   Créala si no existe, junto con `output/[mes-año]/posts/`.
-2. Crea el archivo de log de decisiones: `output/[mes-año]/log-decisiones.md`, que
+1. Determina la carpeta de salida: `linkedin/output/[mes-año]/` (ej. `linkedin/output/2026-10/`).
+   Créala si no existe, junto con `linkedin/output/[mes-año]/posts/`.
+2. Crea el archivo de log de decisiones: `linkedin/output/[mes-año]/log-decisiones.md`, que
    irás rellenando en cada fase (ver plantilla al final). Este log es el sustituto
    directo de las preguntas de briefing y del "OK" del calendario: aquí es donde
    quedan registradas todas las decisiones que antes requerían tu input, para que
@@ -57,7 +57,7 @@ claramente, no lo simules.
 
 ## Fase 0 — Archivista (INBOX)
 
-Invoca `agente-archivista` (sin argumentos adicionales, ya sabe leer `INBOX.md`).
+Invoca `agente-archivista` (sin argumentos adicionales, ya sabe leer `linkedin/INBOX.md`).
 Cuando termine:
 - Añade al log de decisiones la sección "Entradas de INBOX procesadas" con su
   resumen.
@@ -67,10 +67,10 @@ Cuando termine:
 ## Fase 1 — Investigador (sustituye el briefing)
 
 Invoca `agente-investigador`, indicándole el mes/año objetivo y la ruta de salida
-`output/[mes-año]/briefing.md`. Este agente responde autónomamente a las 5 preguntas
+`linkedin/output/[mes-año]/briefing.md`. Este agente responde autónomamente a las 5 preguntas
 que antes se le hacían al usuario (tendencias, lanzamientos, casos de éxito
 disponibles, campañas/eventos, pain prioritario). Cuando termine:
-- Lee `output/[mes-año]/briefing.md`.
+- Lee `linkedin/output/[mes-año]/briefing.md`.
 - Añade al log de decisiones la sección "Investigación del mes": qué tendencias se
   eligieron y por qué, qué pain se priorizó y con qué criterio de la cascada, qué
   quedó fuera por falta de información.
@@ -78,11 +78,11 @@ disponibles, campañas/eventos, pain prioritario). Cuando termine:
 ## Fase 2 — Calendario (envío a validación humana — el pipeline se PAUSA aquí)
 
 Invoca `agente-calendario`, indicándole el mes/año, la ruta de `briefing.md` y la
-ruta de salida `output/[mes-año]/calendario.md`. Este agente, además de escribir
+ruta de salida `linkedin/output/[mes-año]/calendario.md`. Este agente, además de escribir
 `calendario.md`, genera un Google Sheets con el mismo contenido y lo envía por
 correo a `arivas@visualtrans.com` para validación. Cuando termine:
 
-- Lee `output/[mes-año]/calendario.md` y verifica tú mismo, de un vistazo, que
+- Lee `linkedin/output/[mes-año]/calendario.md` y verifica tú mismo, de un vistazo, que
   existe la sección "Resumen de distribución" y que no hay señales obvias de
   incumplimiento grosero (huecos vacíos, menos de 5 perfiles representados).
 - Traslada la sección "Decisiones de calendario para el log" del propio
@@ -116,15 +116,15 @@ independientes entre sí (cada una lee su propio documento de voz y escribe su p
 archivo de salida) — lánzalas en paralelo en la misma respuesta para no serializar
 innecesariamente el trabajo. En el prompt de cada tarea, indica explícitamente:
 - Qué perfil le toca (con su nombre exacto tal como aparece en `calendario.md`).
-- La ruta de `output/[mes-año]/calendario.md`.
-- La ruta de salida esperada `output/[mes-año]/posts/[perfil].md`.
+- La ruta de `linkedin/output/[mes-año]/calendario.md`.
+- La ruta de salida esperada `linkedin/output/[mes-año]/posts/[perfil].md`.
 
 Cuando las cinco terminen, revisa si alguna devolvió una sección "Notas de redacción
 para el log" y trasládala al log de decisiones bajo "Redacción por perfil".
 
 ## Fase 3.5 — Presentación (no bloqueante)
 
-Invoca `agente-presentacion`, indicándole la ruta del mes (`output/[mes-año]/`). Este
+Invoca `agente-presentacion`, indicándole la ruta del mes (`linkedin/output/[mes-año]/`). Este
 agente construye automáticamente, sin que haga falta pedirlo cada mes, un `.pptx`
 con un post por diapositiva (portada + una por fila de `calendario.md`, en orden
 cronológico), para que el usuario pueda revisar visualmente el contenido redactado
@@ -153,8 +153,8 @@ Cuando termine:
 
 ## Fase 4 — Validación final
 
-Invoca `agente-validador`, indicándole la ruta del mes (`output/[mes-año]/`). Cuando
-termine, lee `output/[mes-año]/validacion.md`:
+Invoca `agente-validador`, indicándole la ruta del mes (`linkedin/output/[mes-año]/`). Cuando
+termine, lee `linkedin/output/[mes-año]/validacion.md`:
 
 - Si el resultado global es **APTO**: continúa a la entrega final.
 - Si es **APTO CON CORRECCIONES MENORES**: el propio validador ya aplicó las
@@ -181,11 +181,11 @@ Cuando termines, presenta al usuario en tu respuesta (no solo en archivos):
 1. Un resumen de 3-5 líneas: mes cubierto, nº de posts totales, distribución real de
    pilares, pain prioritario del mes, y si hubo alguna incidencia sin resolver.
 2. Las rutas de los archivos generados y el enlace a la presentación:
-   - `output/[mes-año]/briefing.md`
-   - `output/[mes-año]/calendario.md`
-   - `output/[mes-año]/posts/*.md` (uno por perfil)
-   - `output/[mes-año]/validacion.md`
-   - `output/[mes-año]/log-decisiones.md`
+   - `linkedin/output/[mes-año]/briefing.md`
+   - `linkedin/output/[mes-año]/calendario.md`
+   - `linkedin/output/[mes-año]/posts/*.md` (uno por perfil)
+   - `linkedin/output/[mes-año]/validacion.md`
+   - `linkedin/output/[mes-año]/log-decisiones.md`
    - El `.pptx` generado en la Fase 3.5 (entregado directamente como archivo, para
      revisión visual)
 3. El calendario completo en markdown, pegado directamente en tu respuesta (no solo

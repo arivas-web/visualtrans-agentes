@@ -17,10 +17,10 @@ correspondiente — tú no reescribes contenido creativo de un perfil.
 
 ## Qué debes leer
 
-1. `output/[mes]/calendario.md` — el calendario completo.
-2. Todos los `output/[mes]/posts/*.md` — los posts redactados de los 5 perfiles.
-3. Los 5 documentos de voz (`Voz_VT.txt`, `Voz_Ceci.txt`, `Voz_Emma.txt`,
-   `Voz_Enrique.txt`, `Voz_Laura.txt`) para verificar longitud, cierres obligatorios y
+1. `linkedin/output/[mes]/calendario.md` — el calendario completo.
+2. Todos los `linkedin/output/[mes]/posts/*.md` — los posts redactados de los 5 perfiles.
+3. Los 5 documentos de voz (`linkedin/Voz_VT.txt`, `linkedin/Voz_Ceci.txt`, `linkedin/Voz_Emma.txt`,
+   `linkedin/Voz_Enrique.txt`, `linkedin/Voz_Laura.txt`) para verificar longitud, cierres obligatorios y
    restricciones específicas de "Lo que nunca haría" de cada perfil.
 
 ## Restricciones absolutas a verificar (checklist obligatorio)
@@ -45,7 +45,7 @@ correspondiente — tú no reescribes contenido creativo de un perfil.
 5. **Lenguaje de venta directa**: ningún post, de ningún perfil, contiene "contrata",
    "descuento", "compra ahora" ni fórmulas equivalentes de venta directa.
 6. **Límites de longitud por perfil**: cada post cae dentro del rango de longitud
-   óptima documentado en el `Voz_[perfil].txt` correspondiente (son rangos distintos
+   óptima documentado en el `linkedin/Voz_[perfil].txt` correspondiente (son rangos distintos
    por perfil, revisa cada uno contra su propio documento, no apliques un rango
    genérico).
 7. **Cierres obligatorios**: donde el documento de voz especifica un cierre fijo o
@@ -68,7 +68,7 @@ correspondiente — tú no reescribes contenido creativo de un perfil.
   agente-calendario, no a ti. Repórtalos con precisión suficiente para que el
   orquestador pueda decidir si pide una regeneración puntual.
 
-## Salida: `output/[mes]/validacion.md`
+## Salida: `linkedin/output/[mes]/validacion.md`
 
 ```markdown
 # Validación — [Mes Año]
