@@ -149,6 +149,10 @@ aislado y responsabilidad única:
 | `agente-presentacion` | Construye un .pptx con un post por diapositiva a partir de lo ya redactado, para revisión visual — entregable auxiliar, no bloquea el pipeline |
 | `agente-validador` | Verifica el resultado final contra las restricciones absolutas antes de entregar |
 
+Además de estos 5 (más el parametrizable `agente-redactor`), el propio comando
+`/pipeline-mensual` gestiona una **Fase 4.5** de aprobación humana (ver más
+abajo) — no es un subagente, es una pausa del orquestador del flujo.
+
 `agente-redactor` es un único agente parametrizable en vez de 5 agentes
 separados: el orquestador del pipeline lo invoca cinco veces (una por
 perfil, en paralelo) indicándole en el prompt de la tarea qué perfil le
@@ -180,13 +184,63 @@ necesita de estos archivos en tiempo de ejecución.
 
 El pipeline comitea y pushea directamente a `main` después de cada fase
 que produzca archivos nuevos o modificados (Fase 0, Fase 1, Fase 2
-—incluidas sus rondas de corrección—, Fase 3, Fase 3.5 y Fase 4) sin pedir
-confirmación al usuario en cada paso. Esta autorización es permanente y no
-debe volver a solicitarse en cada ejecución del pipeline; es independiente
-de la única pausa real del sistema (la validación del calendario en Fase
-2), que sigue siendo exclusivamente sobre el contenido, no sobre git. Las
-protecciones generales de git siguen intactas: nunca `--force`, nunca
-`--no-verify`, nunca reescribir historia ajena.
+—incluidas sus rondas de corrección—, Fase 3, Fase 3.5, Fase 4, y la
+creación de `APROBADO.md` en la Fase 4.5) sin pedir confirmación al usuario
+en cada paso. Esta autorización es permanente y no debe volver a
+solicitarse en cada ejecución del pipeline; es independiente de las dos
+pausas reales del sistema (validación del calendario en Fase 2, aprobación
+de los posts en Fase 4.5), que siguen siendo exclusivamente sobre el
+contenido, no sobre git. Las protecciones generales de git siguen
+intactas: nunca `--force`, nunca `--no-verify`, nunca reescribir historia
+ajena.
+
+### Entrega a gráficas (Magnific) — GitHub Actions
+
+Desde 2026-09-23 hay una segunda pieza del sistema, propiedad de un
+compañero del usuario, en **otro repo de Claude Code** distinto de este:
+genera las gráficas de cada post con Magnific y publica el resultado
+(texto + imagen, en una sola llamada) en Metricool. Ese repo no vive aquí
+y este documento no lo gestiona — solo describe el contrato de entrega
+entre los dos.
+
+**Disparo:** el pipeline se detiene en la Fase 4.5 hasta que el usuario
+aprueba explícitamente los posts ya redactados y validados (ver arriba).
+Al aprobar, se crea `linkedin/output/[mes-año]/APROBADO.md` y se pushea a
+`main`. Eso es lo único que activa lo que sigue — nunca el resto de
+commits automáticos del pipeline.
+
+**`.github/workflows/aviso-graficas.yml`** escucha únicamente cambios en
+`linkedin/output/**/APROBADO.md` sobre `main`, detecta el mes-año aprobado,
+y manda un `repository_dispatch` (`event_type: posts-aprobados`) al repo
+del compañero, con este payload:
+
+```json
+{
+  "event_type": "posts-aprobados",
+  "client_payload": {
+    "mes": "2026-10",
+    "repo": "arivas-web/visualtrans-agentes",
+    "calendario": "linkedin/output/2026-10/calendario.md",
+    "posts_dir": "linkedin/output/2026-10/posts",
+    "validacion": "linkedin/output/2026-10/validacion.md"
+  }
+}
+```
+
+**Secretos pendientes de configurar** (Settings → Secrets and variables →
+Actions de este repo) antes de que el workflow funcione — sin ellos falla
+con un mensaje explícito en vez de callar:
+- `GRAFICAS_REPO` — `owner/repo` del compañero en GitHub.
+- `GRAFICAS_DISPATCH_TOKEN` — token con permiso para disparar
+  `repository_dispatch` en ese repo.
+
+**Lo que pasa después ya no es cosa de este repo:** el repo del compañero
+necesita su propio workflow escuchando `repository_dispatch` con
+`types: [posts-aprobados]`, que lea los ficheros indicados en
+`client_payload` (necesita acceso de lectura a este repo — vía token o
+haciendo el propio repo público/con colaborador añadido) y lance su
+agente de Claude Code en modo sin supervisión para generar las gráficas y
+publicar en Metricool.
 
 ### Auditoría
 

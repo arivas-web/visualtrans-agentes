@@ -1,0 +1,55 @@
+name: Avisar al sistema de gráficas (Magnific)
+
+# Se dispara SOLO cuando aparece o cambia un fichero APROBADO.md dentro de
+# linkedin/output/<mes-año>/, que el pipeline /pipeline-mensual crea
+# exclusivamente tras la aprobación humana explícita de la Fase 4.5 (ver
+# .claude/commands/pipeline-mensual.md). No reacciona a ningún otro commit
+# del pipeline (Fase 0-4), que también empujan a main.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "linkedin/output/**/APROBADO.md"
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comprobar que los secretos de destino están configurados
+        env:
+          TARGET_REPO: ${{ secrets.GRAFICAS_REPO }}
+          TOKEN: ${{ secrets.GRAFICAS_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TARGET_REPO" ] || [ -z "$TOKEN" ]; then
+            echo "::error::Faltan los secretos GRAFICAS_REPO y/o GRAFICAS_DISPATCH_TOKEN en este repo (Settings → Secrets and variables → Actions). Configúralos antes de que esta automatización pueda avisar al repo de gráficas."
+            exit 1
+          fi
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Determinar el mes-año aprobado
+        id: mes
+        run: |
+          FILE=$(ls -t linkedin/output/*/APROBADO.md 2>/dev/null | head -n1)
+          if [ -z "$FILE" ]; then
+            echo "::error::No se encontró ningún APROBADO.md bajo linkedin/output/, aunque el workflow se disparó por su path. Revisa el push que lo activó."
+            exit 1
+          fi
+          MES=$(echo "$FILE" | sed -E 's#linkedin/output/([^/]+)/APROBADO\.md#\1#')
+          echo "Mes aprobado detectado: $MES ($FILE)"
+          echo "mes=$MES" >> "$GITHUB_OUTPUT"
+
+      - name: Disparar repository_dispatch en el repo de gráficas
+        env:
+          TARGET_REPO: ${{ secrets.GRAFICAS_REPO }}
+          TOKEN: ${{ secrets.GRAFICAS_DISPATCH_TOKEN }}
+          MES: ${{ steps.mes.outputs.mes }}
+        run: |
+          curl --fail -sS -X POST \
+            -H "Authorization: Bearer ${TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${TARGET_REPO}/dispatches" \
+            -d "$(printf '{"event_type":"posts-aprobados","client_payload":{"mes":"%s","repo":"%s","calendario":"linkedin/output/%s/calendario.md","posts_dir":"linkedin/output/%s/posts","validacion":"linkedin/output/%s/validacion.md"}}' \
+                "$MES" "${{ github.repository }}" "$MES" "$MES" "$MES")"
