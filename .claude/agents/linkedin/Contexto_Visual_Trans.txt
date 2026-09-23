@@ -1,0 +1,239 @@
+﻿Sobre Visual Trans
+
+
+Desde la creación de Visual Trans en 1999, trabajamos para ser líderes del mercado del software de gestión para transitarios, consignatarios, agentes de aduana y operadores logísticos integrales. Somos reconocidos en el mercado por la excelencia en nuestro servicio postventa. Visual Trans está compuesto por un amplio grupo de profesionales de todas las áreas (I+D+I, Calidad, Diseño, Programación, Comercial, Marketing, Proyectos, Soporte y Administración).
+
+
+La clave del éxito de Visual Trans está en todas las personas que han participado en el proyecto, en la actitud demostrada a lo largo de los años: espíritu emprendedor, la ilusión de ser los mejores.
+
+
+Best Place to Work: Premio a la mejor empresa para trabajar en España.
+
+
+
+
+Visual Trans vForwarding
+Funcionalidades principales
+Desarrollado y diseñado  para transitarios.
+Especializado en el  control y gestión de los procesos de importación y exportación de mercancías por vía aérea, marítima y terrestre. 
+Software en Cloud Amazon AWS
+Modelo de venta es Saas
+Multi idioma ( Inglés ) a nivel de interface y emisión de documentos operativos..
+Multiempresa / Multidelegación.
+Cotizaciones | Gestión de envíos aéreo,marítimo y terrestre. Multimodal. 
+Archivo de documentos | Drag & Drop | desde email.
+Acceso desde cualquier ordenador conectado a internet. Teletrabajo
+Panel de Control | Control Tower 
+Gestión de tareas.
+Exportación de información a excel.
+Facilita la trazabilidad y el control de sus operaciones. todo los procesos desde el envío.
+Multimodal, un envío de varios medios de transporte, varios itinerarios.
+Permite de forma sencilla emitir la documentación asociada a los tráficos, saber en todo momento el estado de los envíos y su rentabilidad.
+vForwarding genera avisos de llegada e instrucciones de embarque por email para que los puedas enviar fácilmente a tus clientes, agentes o proveedores. 
+Tecnología API Nativa para integración con otros sistemas. Altamente conectable.
+Integrado con Navieras ( Inttra ) y Cías Aéreas ( e-freight )
+Integrado con Puertos, Portic y Valenciaport.
+Integrado con plataformas de costes marítimos ( Cargo Five) y aéreos ( Webcargo ).
+Sistema de notificaciones automáticas.
+Generación de cotizaciones a partir de Costes.
+Servicio Online de información a clientes. Container Tracking + documentación.
+Centro de soporte integrado en el sistema
+Actualizaciones constantes + 2 grandes versiones al año.
+
+
+
+
+Ventajas de implantar Visual Trans vForwarding
+
+
+Nuestro objetivo principal en el proyecto es ofrecer  una solución única que integre todas las áreas de gestión de las  empresas incluidas en el proyecto mejorando su competitividad reduciendo sus tiempos de gestión y obteniendo mayor conocimiento sobre su actividad y su negocio  de forma ágil e inmediata.
+
+
+Son muchas las ventajas que le permitirá implantar nuestra soluciones
+
+
+Integración absoluta de toda la información en un único sistema proveedor, política fundamental en el control y administración de la información en una empresa actual o  grupo empresarial.
+Posibilidad de ampliar  otros centros de trabajo o módulos de gestión, de forma fácil, sencilla e integrada en el mismo sistema.
+Posibilidad de acceso al sistema a través de Internet desde ubicaciones remotas, beneficiando la interacción en el trabajo del día a día de sus delegaciones, sus clientes y los profesionales que  trabajan en su compañía.
+Integración entre nuestra solución y los sistemas del cliente, permitiendo la interrelación de la información, minimizando la introducción de datos en todos los procesos de trabajo y ganando mayor control sobre la información.
+Posibilita la integración con plataformas telemáticas y de negocio, organismos oficiales, proveedores,  clientes y otras herramientas gracias a su API Nativo,  una puerta abierta a la integración en procesos operativos y empresariales.
+Gestión eficaz de la información y del conocimiento. Facilidad en su registro, metodología basada en el “dato único” y gran versatilidad en el tratamiento de la información.
+Infraestructura Cloud líder en el mercado AWS con las máximas garantías de seguridad y disponibilidad.
+Seguridad en el acceso a la información mediante controles de acceso y políticas de seguridad.
+Servicio de soporte y atención al cliente con un nivel de satisfacción por encima del 90 %.
+Evolución del producto a través de mejora funcional, diseño, usabilidad y acuerdos con colaboradores estratégicos.
+
+
+
+
+Visual Trans Suite
+
+
+Nuestro objetivo principal en el proyecto es ofrecer  una solución única que integre todos los procesos de control y  gestión del negocio desarrollado por el grupo de empresas, mejorando su control, reduciendo sus tiempos de gestión y obteniendo mayor conocimiento  de forma ágil e inmediata.
+
+
+Son muchas las ventajas que proporcionará implantar nuestra soluciones.
+
+
+Integración absoluta de toda la información en una única base de datos, política fundamental en el control y administración de la información en una empresa actual o  grupo empresarial.
+
+
+Posibilidad de ampliar otros centros de trabajo o módulos de gestión, de forma fácil, sencilla e Integrada en la misma base de datos
+
+
+Posibilidad de acceso a la Base de Datos a través de Internet desde ubicaciones remotas, beneficiando la interacción en el trabajo del día a día de sus delegaciones, sus clientes y los profesionales que  trabajan en su empresa.
+
+
+Integración entre nuestra solución y los sistemas del cliente, permitiendo la interrelación de la información, minimizando la introducción de datos en todos los procesos de trabajo y ganando mayor control sobre la información.
+
+
+Posibilita la integración con Plataformas Telemáticas y de Negocio, organismos oficiales, Proveedores,  Clientes y otras Herramientas a través de su API Nativo,  una puerta abierta a la integración en procesos operativos y empresariales.
+
+
+Gestión eficaz de la información y del conocimiento. Facilidad en su registro, metodología basada en el “dato único” y gran versatilidad en el tratamiento de la información.
+
+
+Infraestructura Cloud líder en el mercado AWS con las máximas garantías de seguridad y disponibilidad.
+
+
+Seguridad en el acceso a la información mediante controles de acceso y políticas de seguridad.
+
+
+Servicio de Soporte y atención al cliente con un nivel de satisfacción por encima del 90 %.
+
+
+Evolución del producto a través de mejora funcional, diseño, usabilidad y acuerdos con colaboradores estratégicos.
+
+
+
+
+Propuesta de valor Visual Trans
+El presente documento pretende dar forma a una serie de mensajes que pongan en valor el servicio que ofrece Visual Trans para el Target Market de transitario pequeño y mediano (hasta 50 usuarios). 
+
+
+LEAN CANVAS Y BUYER PERSONAS
+Problemas que resuelve 
+
+
+Falta de control sobre el negocio
+
+
+Problema: No siempre es fácil realizar el seguimiento adecuado de tu negocio para saber qué mejorar y cómo y cuándo hacerlo. Las herramientas genéricas no siempre ofrecen toda la información que necesitas o es muy difícil llegar a ella y no siempre es fácil conocer todos los procesos.  
+
+
+Añadir consecuencias: qué pierde y qué gana tal como lo está haciendo ahora
+Documentar alternativas
+Cómo me hace sentir este problema
+
+
+Solución: Visual Trans es un software pensado para transitarios y diseñado para que puedas tener control total sobre tu operativa. Su flexibilidad y adaptabilidad te permitirá obtener la información que necesitas en el momento adecuado para que puedas tomar decisiones que ayuden a hacer crecer tu negocio, tanto desde el punto de vista operativo como financiero, fiscal, legal etc...
+
+
+Poca agilidad y productividad
+
+
+Problema: A menudo se producen pérdidas de tiempo y de dinero innecesarias, derivadas muchas veces de complejos procesos manuales que se vienen realizando del mismo modo durante años. Acciones como picar muchos datos, realizar cotizaciones, transcribir, digitalizar y enviar documentación son procesos que consumen mucho tiempo.
+
+
+Solución: Cotiza con rapidez y agilidad para no perder una sola oportunidad de negocio. La sencillez que aporta la automatización de procesos que proporciona Visual Trans te ayudará a ahorrar tiempo y dinero y te permitirá responder con mucha más rapidez a las necesidades de tu cliente, de modo que puedas ganar una ventaja competitiva en tu mercado. 
+
+
+
+
+
+
+
+
+
+
+Limitada rentabilidad y alta competencia
+
+
+Problema: El sector del transporte y la logística se está volviendo cada vez más competitivo y los márgenes de beneficio se siguen reduciendo. El reto de mantener la rentabilidad de tu negocio en un mercado tan competitivo supone un quebradero de cabeza.
+
+
+Solución: Es posible mejorar la rentabilidad de tus operaciones optimizando procesos internos que consumen recursos y dinero. Visual Trans ofrece una solución integral enfocada en simplificar, automatizar y optimizar tareas para que puedas sacar el máximo rendimiento a cada una de tus operaciones.
+
+
+
+
+Esfuerzo administrativo y burocracia
+
+
+Problema: En la cadena de suministro existe una compleja burocracia y además se producen numerosos y constantes cambios normativos y regulatorios. Estos cambios constantes exigen a las empresas un nivel de adaptabilidad muy alto y un gran esfuerzo en el cumplimiento con la burocracia. Las herramientas genéricas de control (desde hojas de cálculo a ERPs inespecíficos) no se adaptan a estos cambios y dejan en manos del personal administrativo la responsabilidad de estar al día de la evolución de las normativas.
+
+
+Solución: En Visual Trans contamos con más de 20 años de experiencia en el sector y estamos en constante comunicación con los principales actores de la cadena de suministro para adaptar nuestras soluciones a los nuevos requerimientos que van surgiendo, liberando en gran medida de la carga administrativa y la necesidad de actualización constante por parte de los operarios.
+
+
+
+
+Escasa evolución tecnológica y resistencia al cambio
+
+
+Problema: Los tiempos van cambiando y los procesos que antes eran óptimos, ahora son ineficientes. La evolución del sector empuja hacia la digitalización y aquellas empresas que realizan antes la transición, se encuentran en mejor posición. Sin embargo, no es fácil formar a los empleados en las nuevas tecnologías y procedimientos y muchas veces hay resistencia al cambio. Los operativos están acomodados y son reacios a implementar soluciones novedosas.
+
+
+Solución: En Visual Trans ofrecemos soluciones sencillas, flexibles y adaptables para que puedas evolucionar en tecnología con el menor esfuerzo posible. Además, te acompañamos en todo el proceso, con un onboarding personalizado y diseñado para facilitar y simplificar al máximo la digitalización de tu negocio.
+
+
+
+
+
+
+Beneficios que ofrece
+
+
+Rentabilidad
+Cotiza con agilidad, no pierdas una sola oportunidad
+Ahorra tiempo y dinero automatizando procesos manuales y repetitivos
+Reduce el riesgo de cometer errores humanos
+Evita duplicidad de tareas
+Optimiza tus procesos para ser más competitivos
+Sencillez
+Implantaciones rápidas
+Interfaz intuitiva 
+Curva de aprendizaje sencilla
+Personalizaciones y adaptaciones
+Rápida resolución de dudas y problemas
+Simplificamos al máximo la gestión burocrática
+Control
+Trazabilidad de la información: controla todos tus procesos.
+Análisis de costes de forma automática: asegura la rentabilidad de tu empresa.
+Te ayudamos a cumplir con todos los requisitos de la aduana y la administración.
+Accede desde cualquier plataforma y en cualquier momento para conocer el estado de todos tus procesos
+Un único punto de contacto, de modo que nosotros nos encargamos de resolver cualquier incidencia, ya sea relacionada con la aplicación o con el hosting.
+Con el coste por usuario tus gastos están siempre controlados y libres de imprevistos por fallos en los equipos, actualizaciones de seguridad o renovación de equipos
+Flexibilidad
+Adaptamos nuestras soluciones a las necesidades de tu empresa
+Analizamos tus necesidades y adaptamos el servicio para que puedas tener justo lo que necesitas en cada momento. Sin extras innecesarios.
+Acompañamiento
+El servicio se adapta a tus necesidades actuales y a la evolución de tu empresa sin necesidad de inversión en infraestructura
+Diseñamos un plan en el que te guiamos para que puedas obtener el máximo rendimiento de la plataforma.
+Contarás con el apoyo de expertos en IT sin tener que pagar extra.
+Valor diferencial o ¿Por qué elegir Visual Trans?
+Experiencia
+Más de 20 años de experiencia en el sector del transporte y la logística. Esto nos aporta un profundo conocimiento del sector y del negocio transitario.
+Más de 300 clientes ya se benefician de nuestras soluciones.
+Contamos con un amplio equipo de profesionales dedicados a dar respuesta a todas las necesidades presentes y futuras. Nuestros profesionales superan 10 años de experiencia con nosotros.
+Trato
+Cercanía y atención personalizada
+Te escuchamos y tratamos de entender los problemas para ofrecer las mejores soluciones
+Realizamos visitas regulares a los clientes para conocer de primera mano sus necesidades
+Hacemos un seguimiento periódico del estado, evolución y aprovechamiento de la herramienta.
+Calidad
+Trabajamos para que nuestros clientes cuenten con el mejor servicio posible
+Cuidamos cada detalle para reducir el número de incidencias, tanto operativas como en las actualizaciones.
+Informamos a nuestros clientes de todas novedades, cambios y avances que realizamos para que puedan sacarle el máximo partido a la herramienta. 
+Agilidad
+Aprendemos rápido y diseñamos soluciones pensadas en tus necesidades.
+Adaptamos nuestras infraestructuras a tus necesidades justo cuando lo necesitas.
+Solución rápida de problemas
+Evolución contínua, nos adaptamos a los cambios rápidamente y por eso ofrecemos funcionalidades únicas o poco habituales en el mercado. Esto te permitirá ser el primero en tener las evoluciones del producto
+Seguridad 
+
+
+Ofrecemos los más altos estándares de seguridad y de recuperación ante desastres.
+Mantenimientos y revisiones periódicas
+Comunidad
+Formarás parte de una comunidad de más de 300 empresas de tu sector.

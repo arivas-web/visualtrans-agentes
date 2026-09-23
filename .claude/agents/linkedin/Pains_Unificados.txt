@@ -1,0 +1,101 @@
+# Pains Unificados
+
+---
+
+## 1. Falta de visibilidad sobre la rentabilidad de las operaciones
+El operador no sabe si gana o pierde dinero en cada operación, ni con qué clientes o tipos de servicio es rentable. No conoce el margen antes de enviar una propuesta, lo que puede llevarle a aceptar operaciones que le generan pérdidas.
+
+---
+
+## 2. Ausencia de datos para la toma de decisiones
+No dispone de información agregada ni fiable para tomar decisiones estratégicas sobre precios, clientes, recursos o crecimiento. Sabe que el negocio funciona, pero no puede cuantificarlo ni optimizarlo.
+
+---
+
+## 3. Procesos manuales y trabajo administrativo excesivo
+Gran parte del tiempo se consume en tareas repetitivas y de bajo valor: introducción de datos, volcado de ficheros entre departamentos, facturación manual, recopilación de documentación. Esto impide dedicarse a generar negocio y provoca un alto nivel de estrés operativo.
+
+---
+
+## 4. Doble (o múltiple) entrada de datos
+El mismo dato se introduce varias veces en distintos sistemas o departamentos porque las herramientas no están integradas entre sí. Esto genera ineficiencia, errores y pérdida de tiempo sistemática.
+
+---
+
+## 5. Gestión documental caótica e inaccesible
+El operador recibe y emite grandes volúmenes de documentación pero no tiene un sistema para organizarla. La documentación vive en el correo, en PDFs sin nombre claro o en carpetas físicas, lo que dificulta encontrarla cuando clientes, corresponsales o proveedores la solicitan, y puede llegar a bloquear el cobro.
+
+---
+
+## 6. Proveedor lento en actualizaciones y mejoras
+El proveedor de software actual no lanza mejoras de forma proactiva. Las adaptaciones hay que pedirlas explícitamente y tardan mucho en llegar, o directamente no llegan. No hay sensación de evolución del producto.
+
+---
+
+## 7. Miedo a no estar adaptado a los cambios legales a tiempo
+El marco normativo del sector cambia con frecuencia (ICS2, sumarias, OEA, Ley 9/2025, etc.) y el operador teme que su software no esté actualizado cuando entre en vigor la nueva normativa, exponiéndole a sanciones o problemas operativos.
+
+---
+
+## 8. Herramientas no especializadas o no integradas
+Se trabaja con soluciones genéricas (Excel, ERPs no sectoriales) o con varias herramientas que no se comunican entre sí, obligando a gestionar todo manualmente y sin posibilidad de conectar con clientes, proveedores u organismos externos de forma automática.
+
+---
+
+## 9. Soporte técnico que no entiende el negocio
+Cuando se contacta con soporte, la respuesta es lenta, la rotación del equipo es alta y la persona al otro lado no conoce la operativa del sector. Se percibe como algo lejano e inaccesible.
+
+---
+
+## 10. Trazabilidad del envío costosa y manual
+Conocer el estado y la ubicación de un envío requiere consultas manuales a navieras, puertos y otras fuentes. Comunicar esa información a los clientes consume tiempo adicional y aun así estos siguen reclamando, en un contexto donde el eCommerce ha elevado las expectativas de trazabilidad.
+
+---
+
+## 11. Sin visibilidad sobre costes desde la cotización
+No existe un proceso formal de cotización o, cuando existe, no permite conocer los márgenes en tiempo real. Las empresas más pequeñas directamente no cotizan, lo que impide cualquier control de rentabilidad desde el origen de la operación.
+
+---
+
+## 12. Gestión de tarifas manual y tediosa
+Introducir o actualizar tarifas y costes en la aplicación se hace manualmente, uno a uno, sin integración con los sistemas operativos. Las ofertas en Excel requieren actualizaciones manuales cada vez que cambian las tarifas.
+
+---
+
+## 13. Barrera de entrada y obsolescencia del modelo de licencia
+El modelo de licencia perpetua supone un desembolso inicial elevado, no escala con el crecimiento del negocio y no garantiza evolución del producto. El cliente queda atrapado en una versión que queda obsoleta con el tiempo.
+
+---
+
+## 14. Curva de aprendizaje alta de las herramientas actuales
+Incorporar personal nuevo implica un período largo de formación antes de que puedan operar con autonomía, lo que genera costes y dependencia de las personas con más experiencia.
+
+---
+
+## 15. Miedo e incertidumbre ante el cambio de software
+Implantar una nueva solución se percibe como un riesgo operativo real: posibles paradas, pérdida de datos, curva de aprendizaje, resistencia del equipo. La incertidumbre frena la decisión de cambio incluso cuando el dolor con el sistema actual es evidente.
+
+---
+
+## 16. Desconfianza en proveedores con poca trayectoria
+La confianza y el prestigio del proveedor son un criterio relevante en la decisión de compra. Un proveedor con poca presencia en el mercado o escasa reputación sectorial genera rechazo, independientemente de las funcionalidades del producto.
+
+---
+
+## 17. Necesidad de homologación OEA
+El operador necesita que su software cumpla con los requisitos técnicos del estatus de Operador Económico Autorizado para poder acceder a él o mantenerlo.
+
+---
+
+## 18. Conectividad limitada con terceros y ecosistemas externos
+Dificultad para integrar el software con otras herramientas del ecosistema propio o con sistemas externos (puertos, administraciones, plataformas de clientes/proveedores) que no están disponibles en el marketplace del proveedor.
+
+---
+
+## 19. Imposibilidad de trabajar fuera del puesto de trabajo
+Cuando surge una incidencia o una necesidad operativa fuera de la oficina, el operador no puede acceder al sistema, lo que genera dependencia del puesto físico y limita la flexibilidad operativa.
+
+---
+
+## 20. Falta de visibilidad y control sobre el equipo
+No hay herramientas para distribuir tareas entre el equipo, hacer seguimiento de su ejecución ni detectar cuellos de botella. Se pierde tiempo y dinero por falta de control sobre lo que hace cada persona.

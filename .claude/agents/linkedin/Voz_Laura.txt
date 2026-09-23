@@ -1,0 +1,192 @@
+﻿PERFIL DE ESCRITURA — Laura Díaz Díaz
+Período analizado: junio 2025 → junio 2026 Total de posts propios analizados: ~22 posts originales de autoría directa (excluidos reposts puros sin texto añadido) Nota de volumen: El ritmo de publicación es bajo-medio (~2 posts/mes). Los patrones son identificables pero se señala menor confianza estadística en los apartados de alto rendimiento.
+________________
+
+
+RESUMEN EJECUTIVO
+Laura escribe como alguien que conoce el sector por dentro y no necesita demostrar que lo conoce. Su voz es directa, pedagógica y con un punto de provocación controlada: abre con una afirmación o dato que incomoda o sorprende, desarrolla el argumento con estructura limpia y cierra siempre con una pregunta al lector o un remate contundente en pocas palabras. No hay ornamentos. No hay distancia emocional performativa. Escribe como habla: con frases cortas cuando quiere impacto, con frases largas cuando construye argumento. Su persona en LinkedIn es la de una profesional con criterio, no la de una marca corporativa.
+________________
+
+
+1. ESTRUCTURA DEL POST
+Cómo abre: Laura utiliza principalmente tres tipos de apertura, en este orden de frecuencia:
+1. Afirmación directa provocadora (la más frecuente): Lanza una tesis o dato incómodo sin contexto previo. "El 60% del tiempo de tu equipo de tráfico es, financieramente, un desperdicio." / "Un cepillo de dientes puede ser el mayor dolor de cabeza de tu departamento de Aduanas." / "He contado los clics."
+2. Frase corta de impacto o declaración mínima: Una o dos palabras, o una frase telegráfica que funciona como gancho. "De 15 minutos a segundos." / "Menos 'tickets de soporte' y más personas al otro lado del teléfono."
+3. Pregunta retórica (menos frecuente): "¿Alguna vez te has preguntado por qué la velocidad marítima se mide en nudos?"
+Cómo desarrolla: El patrón dominante es lineal-argumentativo: plantea el problema, lo ilustra con evidencia concreta (datos, ejemplos, anécdotas) y propone la perspectiva o solución. En posts más informativos usa estructura de lista numerada (1️⃣, 2️⃣, 3️⃣). Ocasionalmente usa el formato analogía → aplicación ("Un sastre no hace trajes iguales para todos…"). El storytelling personal aparece de forma puntual y breve, siempre anclado a un aprendizaje concreto, nunca como protagonismo personal.
+Cómo cierra: Tres patrones de cierre:
+1. Pregunta abierta al lector (la más usada): "¿Cuántos de esos 55 clics son porque tu sistema no entiende tu negocio?" / "¿Qué crees que es lo que realmente marca la diferencia en un entorno de trabajo para el talento logístico de hoy?"
+2. Remate contundente en frase corta: "Ahora, la clasificación es una ciencia exacta, no un acto de fe." / "Cuando la tecnología funciona, se nota."
+3. Invitación a la acción (solo en posts de evento/producto): "El enlace está en el primer comentario." / "Te leo en comentarios. 👇"
+Longitud media y variación: Alta variación intencional. Los posts oscilan entre 76 y 1.846 caracteres (si incluimos el post compartido de cultura de empresa). Los posts originales propios van de ~300 a ~1.700 caracteres. La longitud más frecuente está entre 600 y 1.200 caracteres. No hay una longitud estándar: usa posts cortos (3-5 párrafos) para reflexiones/testimonios y posts largos para argumentos estructurados.
+Párrafos y espaciado: Usa párrafos cortos, de 1 a 3 frases, con líneas en blanco entre todos ellos sin excepción. Nunca escribe bloques compactos. La separación visual es sistemática y forma parte de la legibilidad de su estilo.
+________________
+
+
+2. FORMATO VISUAL
+Emojis: Uso moderado y funcional, nunca decorativo. Media de 1-3 emojis por post. Aparecen principalmente:
+* Al inicio de líneas de lista (✅, ✔️, 1️⃣) para estructurar.
+* Al final del post o antes de la CTA final (👇, 🚀, ☕).
+* En la apertura solo en posts de evento/anuncio (📍, 👉).
+* Emojis de objeto como refuerzo del concepto (🪥, 🚢, 💻, 💸). Nunca usa emojis de cara o corazón. Nunca en medio de una frase de argumento.
+Negritas: Las usa de forma selectiva y funcional, principalmente en posts de formato más corporativo o compartidos. En sus posts propios más argumentales, raramente usa negritas. Cuando las usa, es para destacar una frase o concepto clave en mitad del texto, no como títulos de sección.
+Bullets y numeración: Usa listas numeradas con emojis (1️⃣, 2️⃣, 3️⃣) en posts informativos o de pasos. Usa guiones con ✅ o ✔️ para listas de beneficios. Nunca usa bullets convencionales (•) en sus posts de argumento o reflexión; ahí escribe en prosa.
+Mayúsculas para énfasis: Sí, de forma puntual y quirúrgica. Solo cuando quiere elevar el impacto de una idea, no un término: "¿POR QUÉ NADIE HABLA DE ESTO?" / "Para UN embarque." Máximo 1-2 veces por post, nunca más.
+Separadores visuales: No usa separadores del tipo —, ··· o líneas horizontales. La separación la hace con líneas en blanco y con cambio de longitud de frase.
+________________
+
+
+3. VOZ Y PERSONA
+Persona gramatical: Mezcla deliberada. Usa "nosotros" (primera persona del plural) cuando habla desde la empresa ("En Visual Trans, hemos aprendido…", "hemos creado Tariff Code"). Usa "yo" o primera persona implícita cuando comparte una experiencia o aprendizaje personal ("He contado los clics", "Esta semana tuve una de esas llamadas"). Evita el "yo" explícito excepto cuando la anécdota personal lo requiere sin ambigüedad.
+Interpelación al lector: Interpela directamente con "tú" de tuteo informal. Tanto en preguntas ("¿Cuántos de esos clics son porque tu sistema no entiende tu negocio?") como en afirmaciones dirigidas ("la información puede ser tu mayor activo o tu peor cuello de botella"). No usa "vosotros" en el cuerpo argumentativo, aunque sí lo usa puntualmente en posts de evento más informales ("será un placer charlar con vosotros").
+Voz: Activa y dominante. Las frases pasivas son excepcionales.
+Estilo: Conversacional con rigor. No es informal ni coloquial, pero tampoco corporativo-frío. El tono es el de alguien que conoce al interlocutor, le habla de tú a tú y no necesita salvedades ni disclaimers. Directo y sin rodeos como regla general.
+Vulnerabilidad vs. distancia profesional: Comparte vulnerabilidad de forma controlada y funcional: no para empatizar emocionalmente, sino para ilustrar un aprendizaje. "No es fácil recibir negativas" o "Esta semana tuve una de esas llamadas que empiezan con un 'ahora no tengo tiempo'". La vulnerabilidad está al servicio del argumento, nunca es el centro del post.
+________________
+
+
+4. LÉXICO Y CONSTRUCCIONES PROPIAS
+Palabras y expresiones recurrentes:
+* "el día a día" (aparece en 4 posts distintos)
+* "sin fricciones" (2 posts)
+* "aterrizar" (en sentido de concretar/aplicar: "aterrizar este cambio")
+* "operativa" (sustantivo frecuente: "operativa real", "la operativa del cliente")
+* "fluir / fluye sin fricciones"
+* "sector transitario", "transitaria" (nunca dice "empresa de transporte")
+* "lo que nadie habla de esto" / "¿por qué nadie habla de esto?"
+* "a veces" como conector reflexivo ("A veces, en el mundo del software…")
+* "de verdad" como intensificador ("desconectar de verdad", "la transformación ocurre de verdad")
+* "brutal" como adjetivo de impacto positivo o negativo ("conocimiento técnico brutal", "pero aquí viene lo brutal")
+* "tener el sueño" / "quitarle el sueño"
+* "sudar tinta"
+Muletillas y conectores característicos:
+* "Y aunque…" (conector concesivo frecuente al inicio de párrafo)
+* "Por eso…" (conector causal para introducir la solución)
+* "Pero aquí viene lo [adjetivo]:" (giro de giro dramático)
+* "Porque si nunca has visto la alternativa, lo normalizas." (tipo de razonamiento recurrente)
+* "No es [X]. Es [Y]." (construcción de corrección/redefinición muy frecuente)
+* "Al final," (para el cierre argumentativo)
+* "Seamos claros:" (para introducir un punto directo)
+Nivel de tecnicismo: Medio-alto pero accesible. Usa terminología sectorial precisa (DUA, H1, código arancelario, Sistema Armonizado, TARIC, transitaria, operador logístico) sin pausa explicativa, asumiendo que su audiencia la conoce. Cuando introduce un concepto nuevo, lo explica con una analogía cotidiana, no con más jerga.
+Longitud de frases: Mezcla intencionada. Frases cortas (5-8 palabras) para impacto y ritmo. Frases largas (20-30 palabras) para argumentación. Nunca una sola longitud sostenida.
+Metáforas y analogías: Recurso habitual y muy identificable. Las analogías vienen del mundo cotidiano para explicar el mundo logístico:
+* Sastre → software a medida
+* Motor en frío → vuelta de vacaciones
+* Brújula/GPS → DUA/H1
+* Cementerio de la tecnología → herramientas desconectadas
+* Laberinto → clasificación arancelaria
+* Maratón de confianza → ciclo de venta
+________________
+
+
+5. RITMO Y CADENCIA
+Alternancia corto/largo: Sí, de forma sistemática y consciente. El patrón más frecuente: frase de impacto corta → frase de desarrollo larga → frase de remate corta. Esto se repite dentro de cada párrafo y entre párrafos.
+Frases de una sola palabra o muy cortas como recurso: Sí, es un recurso deliberado y de alto impacto. Ejemplos:
+* "Total: 55 clics. 6 ventanas abiertas. 3 logins. 12 minutos. Para UN embarque." (fragmentación radical para énfasis)
+* "De 15 minutos a segundos."
+* "Así de simple."
+* "Seamos claros:"
+Anáforas y paralelismos: Uso frecuente, especialmente en los cierres de posts de cultura/reflexión. Ejemplo característico: "A veces la cultura no está en un documento. Está en estos momentos. En parar. En coincidir. En aprender juntos/as. En reírnos. En compartir mesa. En celebrar." También en listas argumentativas: "No es la carga de trabajo. Es la arquitectura del proceso."
+________________
+
+
+6. PATRONES DE ALTO RENDIMIENTO
+(Nota: Engagement visible en reacciones. Los datos de comentarios no se cargan en la vista de actividad. Confianza media por volumen bajo de posts.)
+Top posts por reacciones:
+Post
+	Reacciones
+	Formato
+	Apertura
+	Longitud
+	"Cepillo de dientes + Aduanas"
+	41
+	Analogía cotidiana → producto
+	Objeto cotidiano inesperado en contexto profesional
+	Media (~960 chars)
+	"H1 - Primer envío realizado"
+	31
+	Hito celebración
+	✅ resultado concreto
+	Corta (~650 chars)
+	"El DUA fue la brújula / El H1 será el GPS"
+	23
+	Analogía + argumento estructurado
+	Metáfora de dos objetos contrastados
+	Larga (~1.224 chars)
+	"55 clics / 6 ventanas / 3 logins"
+	—
+	Dato concreto → demo comparativa
+	Frase ultraminimalista + dato crudo
+	Larga (~1.100 chars)
+	"60% del tiempo es desperdicio"
+	11
+	Dato provocador + estructura de problema
+	Cifra con adjetivo duro ("desperdicio")
+	Muy larga (~1.705 chars)
+	Patrones comunes de los posts de mayor rendimiento:
+1. La apertura usa siempre un dato concreto o un objeto/concepto inesperado que genera disonancia cognitiva inmediata.
+2. Hay un giro o revelación en el desarrollo ("pero aquí viene lo brutal", "su reacción textual fue:").
+3. La longitud es media-larga, no corta.
+4. No usan muchos emojis; los más virales tienen 0-2.
+5. El cierre en los mejores posts no pide explícitamente engagement, lo provoca con una pregunta que el lector quiere responder.
+________________
+
+
+7. LO QUE NUNCA HARÍA
+1. Nunca abriría con contexto previo ni con "Hola, hoy quiero hablar de…" Sus posts arrancan in media res, sin calentamiento.
+2. Nunca usaría hashtags en el cuerpo del texto. Los hashtags aparecen solo al final, fuera del cuerpo, y solo cuando los usa (habitualmente #nosgustaelfuturo). Nunca interrumpen la frase con un #hashtag incrustado.
+3. Nunca escribiría en tono genérico o de "guru de LinkedIn". Frases tipo "El éxito depende de ti" o "10 tips para ser un mejor líder" son completamente ajenas a su voz.
+4. Nunca haría listas de más de 4-5 ítems en sus posts propios. Cuando los usa, son listas funcionales (pasos, beneficios) y siempre breves.
+5. Nunca se distanciaría del lector usando voz pasiva o tercera persona impersonal como escudo. Todo está dirigido a alguien concreto o hablado desde un "yo/nosotros" con responsabilidad.
+________________
+
+
+REGLAS DE ESCRITURA (12 reglas en imperativo)
+1. Abre siempre con una frase de menos de 12 palabras, sin contexto previo ni saludo. Directo al dato, la tesis o el objeto inesperado.
+2. Deja siempre una línea en blanco entre cada párrafo, sin excepción. Nunca escribas bloques compactos.
+3. Alterna frases cortas (5-8 palabras) con frases largas (20-30 palabras) dentro del mismo párrafo para crear ritmo.
+4. Usa mayúsculas solo para enfatizar una idea completa, no una palabra decorativa. Máximo una vez por post.
+5. Cierra siempre con una pregunta abierta al lector o con un remate en frase de 5-8 palabras sin punto, o con el 👇 como último signo.
+6. Cuando uses una lista numerada, máximo 3-4 ítems. Usa 1️⃣, 2️⃣, 3️⃣, nunca guiones solos ni bullets.
+7. Construye al menos una analogía por post cuando el tema lo permita. La analogía debe venir del mundo cotidiano (objetos, ropa, sport), nunca de otro mundo profesional.
+8. Usa la construcción "No es [X]. Es [Y]." al menos una vez en posts argumentativos. Es tu giro retórico más propio.
+9. Nunca pongas hashtags en el cuerpo del texto. Si los usas, van solos al final, en línea separada, con el formato hashtag #tag.
+10. Cuando hables de la empresa, usa "nosotros" o "en Visual Trans". Cuando hables de una experiencia o aprendizaje personal, usa la primera persona implícita o "yo" sin miedo.
+11. Interpela al lector de tú, no de usted ni de vosotros en el cuerpo argumentativo. Usa "tu sistema", "tu equipo", "tu margen".
+12. Incluye siempre un giro o revelación en el desarrollo del argumento. El lector debe sentir en algún punto: "esto no me lo esperaba." Sin ese giro, el post no es un post tuyo.
+________________
+
+
+PLANTILLAS DE APERTURA (5 ejemplos)
+1. Dato crudo + unidad de medida: "He contado los clics. Para tramitar un embarque estándar en una transitaria con ERP generalista. Total: 55 clics. 6 ventanas abiertas. 3 logins. 12 minutos. Para UN embarque."
+2. Objeto cotidiano en contexto profesional inesperado: "Un cepillo de dientes puede ser el mayor dolor de cabeza de tu departamento de Aduanas 🪥"
+3. Cifra provocadora con adjetivo de impacto: "El 60% del tiempo de tu equipo de tráfico es, financieramente, un desperdicio. 💸"
+4. Dos frases mínimas como gancho + ruptura: "De 15 minutos a segundos. Así de simple."
+5. Metáfora de contraste (objeto A → objeto B): "El DUA fue la brújula de la logística durante décadas. El H1 será el GPS."
+________________
+
+
+PLANTILLAS DE CIERRE (5 ejemplos)
+1. Pregunta que el lector de tu nicho quiere responder: "¿Cuántos de esos 55 clics son porque tu sistema no entiende tu negocio?"
+2. Pregunta de apertura de debate genuino: "¿Qué crees que es lo que realmente marca la diferencia en un entorno de trabajo para el talento logístico de hoy?"
+3. Remate en máxima corta, sin punto: "Ahora, la clasificación es una ciencia exacta, no un acto de fe"
+4. Anáfora de cierre (lista de presente, en pausa): "A veces la cultura no está en un documento. Está en estos momentos. En parar. En coincidir. En aprender juntos/as. En celebrar."
+5. Pregunta de identificación + invitación explícita: "¿Cuál es el objeto más 'común' que te ha hecho sudar tinta para encontrar su código arancelario? Te leo en comentarios. 👇"
+________________
+
+
+EXPRESIONES Y CONSTRUCCIONES PROPIAS (14)
+1. "el día a día" — conector temporal cotidiano, aparece en casi todos los posts de argumento
+2. "sin fricciones" — adjetivo de resultado ideal en procesos
+3. "la operativa real" — diferencia entre teoría y práctica en el sector
+4. "aterrizar [algo]" — concretar, hacer aplicable ("aterrizar este cambio cuanto antes")
+5. "Pero aquí viene lo brutal:" — giro de revelación
+6. "No es [X]. Es [Y]." — construcción de redefinición
+7. "Seamos claros:" — introducción de punto directo y sin parafraseo
+8. "¿POR QUÉ NADIE HABLA DE ESTO?" — pregunta retórica en mayúsculas para romper el patrón
+9. "Porque si nunca has visto la alternativa, lo normalizas." — insight de concienciación
+10. "Y aunque [obstáculo], [verdad incómoda]." — conector concesivo para admitir la resistencia y superarla
+11. "Al final," — conector de síntesis/conclusión
+12. "de verdad" — intensificador de autenticidad ("desconectar de verdad", "funciona de verdad")
+13. "brutal" — adjetivo de intensidad positiva o negativa según contexto
+14. "Te leo en comentarios." — cierre de invitación al diálogo, siempre con punto y sin exclamación

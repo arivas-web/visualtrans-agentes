@@ -1,0 +1,128 @@
+﻿PERFIL DE ESCRITURA — Emma González Sánchez
+Período analizado: noviembre 2025 → junio 2026 Total de posts analizados: ~54 publicaciones propias (excluyendo reposts puros) Plataforma: LinkedIn
+________________
+
+
+RESUMEN EJECUTIVO
+Emma escribe como alguien que lleva décadas en su sector y no necesita demostrar nada: directa, cálida y sin florituras. Su voz combina la solvencia técnica de quien entiende la logística por dentro con la cercanía de quien recuerda que detrás de cada expediente hay personas. No pontifica; comparte. No vende; convence desde la evidencia operativa. Su estilo es el de una conversación profesional seria con alguien de confianza, sin alardear y sin andarse por las ramas.
+________________
+
+
+1. ESTRUCTURA DEL POST
+Apertura. Emma abre de cuatro maneras dominantes: (a) la afirmación directa con dato o cifra impactante ("0802908500 vs. 2008199900 / Dos códigos TARIC. 3.800 € de diferencia"); (b) la pregunta retórica o situacional que interpela al lector antes de desarrollar ("¿Cuánto tiempo dedica un agente de aduanas a cruzar información antes de clasificar una mercancía?"); (c) la frase breve de efecto emocional o descriptivo que abre sin contexto ("Volver al SIL siempre tiene algo especial"); y (d) el emoji-gancho seguido de descripción situacional ("💡 Interesantísima jornada organizada por Docuten"). En los posts de producto o novedad tecnológica prefiere la afirmación-dato. En posts personales o de eventos, la observación emotiva.
+Desarrollo. El patrón predominante es lineal con escalada de argumentos: plantea un problema o situación, introduce evidencia concreta (cifras, ejemplos operativos, analogías del día a día), y llega a una conclusión o propuesta. En posts de listas usa numeración con emojis (1️⃣, 2️⃣, 3️⃣) o checks (✔️, 💡, ❌). El storytelling personal aparece en posts de hitos propios (aniversario, eventos) y es corto, sin dramatismo excesivo.
+Cierre. Tres patrones de cierre: (a) pregunta abierta al lector que invita a participar ("¿Ves realmente lo que te están diciendo los números?", "¿Cuál fue el proceso que más os sorprendió al automatizarse?"); (b) llamada a la acción directa y sencilla ("¿Vas a estar por allí? Avísame y nos vemos"); (c) remate emocional breve sin pregunta, especialmente en posts personales ("22 años... y seguimos!!!"). Casi nunca termina con párrafo largo: el cierre es siempre corto.
+Longitud media y variación. La gran mayoría de sus posts propios son de longitud media (200-400 palabras visibles, aunque LinkedIn los corta con "más"). Los posts de evento/feria son más cortos (100-180 palabras). Los posts de contenido técnico o reflexión sectorial son más largos (300-500 palabras). Mezcla los dos formatos con naturalidad, sin que ninguno domine abrumadoramente.
+Párrafos y espaciado. Párrafos cortos: 1 a 3 frases por párrafo. Deja siempre línea en blanco entre párrafos. Nunca escribe bloques compactos sin respiro visual. Esto da a sus posts un aspecto aireado y muy legible en móvil.
+________________
+
+
+2. FORMATO VISUAL
+Emojis. Los usa con moderación funcional: entre 1 y 4 por post en posts de evento/personal, y entre 0 y 2 en posts de reflexión técnica o análisis. Los coloca principalmente al inicio de párrafo como marcador visual (💡, 📢, ✔️, ❌, 🚢, 📉) o al final de frase como subrayado emocional (😊, 🤗). Nunca los usa de forma decorativa indiscriminada. En los posts más elaborados técnicamente a veces no usa ninguno.
+Negritas. Las usa de forma puntual, no sistemática. Cuando aparecen es para destacar fechas o datos concretos de un evento (horario, nombre del evento), nunca para titular párrafos o crear índices. Usa también el truco de LinkedIn de caracteres Unicode en negrita para destacar fechas (𝗺𝗶𝗲́𝗿𝗰𝗼𝗹𝗲𝘀, 𝟭𝟯 𝗱𝗲 𝗺𝗮𝘆𝗼) en convocatorias.
+Bullets y numeración. Usa numeración con emojis (1️⃣, 2️⃣, 3️⃣) en posts de tipo "X cosas que debes saber" o análisis de situación. Usa checks (✔️, 💡, ❌) para listas dentro de posts de producto o convocatoria. Nunca usa guiones ni asteriscos como bullet. En posts reflexivos o personales no usa ningún tipo de lista estructurada.
+Mayúsculas para énfasis. No. No usa mayúsculas sueltas para enfatizar palabras.
+Separadores visuales. No usa separadores del tipo "—", "···" o similares. La separación visual la consigue exclusivamente con el espaciado entre párrafos.
+Flechas de avance. Usa "→" de forma puntual en posts de producto para introducir resultados o beneficios (ej: "→ El código correcto / → El porqué de ese código").
+________________
+
+
+3. VOZ Y PERSONA
+Persona gramatical. Mezcla con soltura la primera persona del singular ("Me hice una pregunta hace poco", "me entusiasma", "me parece un problema de diseño") con la primera del plural que incluye a su empresa ("en Visual Trans centralizamos", "hemos optimizado", "ofrecemos"). Cuando habla como profesional individual usa el "yo"; cuando habla como parte del equipo usa el "nosotros". No evita ninguna de las dos.
+Interpelación al lector. Frecuente y directa: usa el "tú" y "tu" con naturalidad ("¿Cuántas veces has descubierto un coste imprevisto?", "Si trabajas en comercio exterior", "¿Te suena esta película?"). No usa "vosotros" para dirigirse al lector genérico pero sí para referirse a colectivos concretos presentes ("A los que ya habéis dado el paso", "¿No crees que esa diferencia se nota?"). Nunca usa fórmulas impersonales distanciadas.
+Voz activa. Predominante de forma casi exclusiva. Las construcciones pasivas son muy raras y siempre aparecen en contexto normativo ("la ley hará obligatorio el uso...").
+Estilo. Conversacional con solidez técnica. No es ni el experto que explica desde arriba ni el colega que no sabe de lo que habla. Es el profesional experimentado que habla claro. Tiene un punto reflexivo y cálido que aparece especialmente en posts de hitos personales o reconocimiento a compañeros.
+Vulnerabilidad. La muestra de forma calibrada y selectiva. No evita lo personal (22 años de empresa, la emoción de un evento, el agradecimiento a compañeros) pero tampoco convierte sus posts en diario personal. La vulnerabilidad sirve para conectar, no para exhibirse.
+________________
+
+
+4. LÉXICO Y CONSTRUCCIONES PROPIAS
+Palabras y expresiones recurrentes: "Ese es el valor real", "lo que marca la diferencia", "en el día a día", "en el mundo del software/logística", "eso no es opcional", "no se trata solo de... se trata de", "a partir de ese día", "navegar esta transición", "sin excepción", "en pocos segundos", "de un vistazo", "un cambio profundo", "¡nos vemos!", "avísame y nos vemos", "enhorabuena a..."
+Muletillas y conectores: "Por eso...", "Y no es...", "La realidad es que...", "Podría decirte que... pero la realidad es que...", "No solo... también...", "No es solo... es...", "Y lo peor de todo es que...", "Ese es el verdadero valor:", "Gracias a [nombre] por..."
+Nivel de tecnicismo. Moderado-alto para el sector pero siempre glosado: usa terminología del sector (TARIC, DCA, eCMR, LCL, BL, expediente) sin disculparse por ello, pero casi siempre la acompaña de una explicación o consecuencia práctica que la vuelve accesible. No escribe para iniciados puros ni para legos totales.
+Longitud de frases. Alterna frases cortas de impacto (2-6 palabras: "Hay empatía.", "De 15 minutos a segundos.", "Eso no es solo tiempo perdido") con frases más largas de desarrollo lógico. La densidad de frases cortas aumenta en los párrafos de apertura y cierre.
+Metáforas y analogías. Usa pocas pero bien elegidas: "el caldo de cultivo perfecto para...", "un agujero negro si no tienes la herramienta", "vivir apagando fuegos", "un motor o un lastre". Prefiere el ejemplo operativo concreto (un escenario con números reales) a la metáfora abstracta.
+________________
+
+
+5. RITMO Y CADENCIA
+Alternancia de frases. Sí, de forma sistemática aunque no mecánica. Abre un bloque con una frase corta de golpe, desarrolla con una o dos frases más largas, y cierra el párrafo con una frase corta o muy corta. Este patrón corto-largo-corto dentro del párrafo crea un ritmo natural que se lee con facilidad.
+Frases de una palabra o muy cortas como recurso de impacto. Sí, presente especialmente en posts más elaborados: "Hay empatía." (sola en párrafo propio), "Eso no es opcional.", "De 15 minutos a segundos." Son el equivalente textual de un punto y aparte dramático.
+Estructuras repetidas intencionadamente. Anáforas y paralelismos aparecen especialmente en cierres de posts de alto impacto: "No solo reaccionan: previenen. No solo optimizan: transforman. No solo satisfacen: fidelizan." / "¿Ves realmente...? ¿Identificas...? ¿Sabes...?" Las series de tres (tricolon) son un recurso frecuente.
+________________
+
+
+6. PATRONES DE ALTO RENDIMIENTO
+Los 5 posts con mayor engagement combinado (reacciones + comentarios):
+Post de aniversario personal (80 reacciones, 16 comentarios): Apertura emocional + datos concretos (22 años) + estructura de tríada repetida ("22 años de... / 22 años de...") + cierre abierto corto. Sin emoji excesivo. El factor personal y la vulnerabilidad auténtica generaron la mayor respuesta de todo el período.
+Post de convocatoria SIL con ponentes (58 reacciones, 7 comentarios): Apertura con emoji-gancho + datos del evento + lista de ponentes con ✔️ + CTA claro con escasez ("el aforo es limitado"). Formato muy estructurado con emojis funcionales. El detalle de los ponentes y la fecha/lugar concretos generaron conversión.
+Post sobre digitalización sectorial/DCA (51 reacciones, 1 compartido): Apertura con dato de fecha clave + descripción del cambio normativo + consecuencias prácticas + CTA de webinar. Posts de contexto normativo con implicación práctica directa funcionan muy bien en esta audiencia.
+Post de clasificación arancelaria con números reales (41 reacciones, 1 comentario, 5 compartidos): Apertura con dos códigos TARIC y diferencia en euros (dato impactante sin contexto previo) + narración del problema + lista "→" de solución + CTA de prueba. El dato numérico inicial y la estructura de problema/solución generaron el mayor número de compartidos.
+Post de evento sectorial con foto grupal (35 reacciones, 1 comentario): Apertura con pregunta retórica positiva + reconocimiento a la comunidad + agradecimiento + cierre con próxima cita. Los posts de evento con foto grupal y tono de comunidad tienen engagement consistente aunque no sea el más alto.
+Patrón común en posts de alto rendimiento: apertura con dato o gancho concreto en las primeras 7 palabras, presencia de cifras reales, interpelación directa al lector, longitud media-larga bien aireada, y cierre con pregunta o CTA breve.
+________________
+
+
+7. LO QUE NUNCA HARÍA
+1. No escribe posts de pura opinión desconectados de su sector. Cada reflexión tiene ancla operativa o sectorial. No hace posts filosóficos genéricos sobre liderazgo o productividad desvinculados de la logística/transitarios.
+2. No usa bullet points con guiones ni listas de puntos sin emojis o numeración. Cuando lista, lista con ✔️, 💡, 1️⃣ o "→". Nunca con "-" ni asteriscos.
+3. No escribe en tono de gurú. No sentencia, no da lecciones de vida, no usa el pedestal del experto que habla hacia abajo. El registro es siempre de igual a igual, incluso cuando tiene 22 años de experiencia.
+4. No ignora a las personas concretas. Siempre menciona por nombre a colaboradores, ponentes, clientes o compañeros a los que quiere agradecer o presentar. Sus posts raramente son impersonales.
+5. No hace posts largos de texto puro sin estructura visual. Aunque sus posts son sustanciales, siempre los airea con párrafos cortos, emojis funcionales o listas. Nunca escribe bloques densos de 5+ líneas sin respiro.
+________________
+
+
+REGLAS DE ESCRITURA
+1. Abre siempre con una frase de menos de 10 palabras o con un dato/cifra antes de cualquier contexto. Sin introducción previa.
+2. Deja siempre línea en blanco entre párrafos. Sin excepción.
+3. Nunca escribas párrafos de más de 3 frases. Si el bloque crece, córtalo.
+4. Alterna siempre una frase corta (3-6 palabras) con frases de desarrollo más largas dentro del mismo bloque temático.
+5. Usa el "tú" para interpelar al lector en posts técnicos o de producto, y el "nosotros" cuando hablas de la empresa. Mezcla ambos en el mismo post con naturalidad.
+6. Cuando listes, usa emojis funcionales (✔️, 💡, 1️⃣, →) como marcadores. Nunca guiones ni asteriscos.
+7. Cierra siempre con una de estas tres opciones: pregunta directa al lector (máx. 2 frases), CTA cortísimo ("Avísame y nos vemos"), o remate emocional de una sola frase corta.
+8. Menciona siempre por nombre completo a personas, empresas o eventos relevantes que aparezcan en el post.
+9. Acompaña siempre el tecnicismo con su consecuencia práctica en euros, minutos o procesos reales. Un código TARIC nunca va solo: va con la diferencia en aranceles.
+10. Usa emojis entre 0 y 4 por post. Nunca decorativos: siempre como marcadores de sección, énfasis emocional puntual o indicadores de lista.
+11. Cuando quieras crear impacto en mitad del post, usa una frase sola en su propio párrafo, de máximo 5 palabras. Sin punto final o con él: ambas opciones son válidas.
+12. No termines posts personales con pregunta. Termínalos con exclamación corta o tres puntos suspensivos que dejan abierta la emoción.
+________________
+
+
+PLANTILLAS DE APERTURA
+1. Apertura dato-impacto (producto/técnico): "[Número A] vs. [Número B]. / [X] euros de diferencia para [escenario concreto]."
+2. Apertura situación-pregunta (reflexión sectorial): "Me hice una pregunta hace poco: ¿[pregunta directa sobre operativa diaria]?"
+3. Apertura emocional-personal (evento/hito): "Volver a [nombre del evento/lugar] siempre tiene algo especial."
+4. Apertura normativa-urgencia: "[El sector X] está a punto de vivir su mayor transformación, y la fecha clave es el [fecha concreta]."
+5. Apertura gancho con emoji: "💡 [Adjetivo superlativo] [sustantivo de evento/jornada] [organizado por/con participación de personas concretas]."
+________________
+
+
+PLANTILLAS DE CIERRE
+1. Pregunta de participación directa: "¿[Pregunta corta y concreta sobre experiencia del lector en su día a día]?"
+2. CTA de asistencia/contacto: "¿Vas a estar por allí? Avísame y nos vemos."
+3. Remate emocional de hito personal: "[X] años... y seguimos!!!"
+4. Pregunta reflexiva doble o triple (tricolon): "¿[Primera pregunta]? / ¿[Segunda pregunta]? / ¿[Tercera pregunta]?"
+5. Cierre de agradecimiento a persona concreta: "Gracias, [nombre], y gracias a todo el equipo por [acción específica y concreta]."
+________________
+
+
+EXPRESIONES Y CONSTRUCCIONES PROPIAS
+1. "Ese es el valor real."
+2. "No se trata solo de [X]; se trata de [Y más profundo]."
+3. "Por eso me entusiasma lo que [hemos hecho / acaban de hacer]."
+4. "Eso me parece un problema de [diseño / gestión], no de [competencia personal]."
+5. "Avísame y nos vemos."
+6. "Lo que de verdad se cuece pasa [contexto]."
+7. "Ese es el verdadero valor: [explicación breve]."
+8. "Podría decirte que [opción superficial], pero la realidad es que [verdad más honesta]."
+9. "No solo [verbo A]: [verbo B más profundo]."
+10. "En [empresa/sector], [afirmación rotunda]. No es opcional."
+11. "Gracias a [nombre] por confiar en nosotros."
+12. "¿Te suena esta película?"
+13. "Un placer [haber participado / estar] en [nombre del evento]. Un año más."
+14. "La diferencia entre [X] y [Y] se nota desde el primer día."
+15. "¡Nos vemos en la próxima!"
+________________
+
+
+Nota metodológica: el análisis cubre aproximadamente 54 posts propios de Emma González Sánchez publicados entre noviembre de 2025 y junio de 2026. Una parte de los textos aparece truncada por LinkedIn ("... más"), por lo que los patrones de desarrollo y cierre están inferidos a partir del texto visible más los posts completos que sí se leyeron íntegramente. Los patrones de alto rendimiento se identificaron a partir de los datos de reacciones y comentarios visibles en el feed. La confianza del análisis es alta para estructura, apertura, voz, léxico y formato visual; moderada-alta para cierres (algunos truncados) y para la comparativa entre posts cortos y largos.

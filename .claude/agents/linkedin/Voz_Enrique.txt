@@ -1,0 +1,145 @@
+﻿PERFIL DE ESCRITURA — Enrique Saa Viéitez
+Período analizado: Mayo 2024 → Junio 2026 Total de posts propios analizados: 15 (5 publicaciones de los últimos 30 días + 10 publicaciones de hace ~2 años) Seguidores al momento del análisis: 4.724 ⚠️ Nota de confianza: El volumen de publicaciones propias detectadas es bajo (<20). Se observa una brecha de actividad: hay posts recientes (últimas 4 semanas) y posts de hace ~2 años, pero aparentemente muy poca actividad propia entre ambos períodos. Los patrones de alto rendimiento deben interpretarse con confianza moderada. El análisis se basa en los posts propios localizados; posts de hace 1-11 meses no fueron detectables en la interfaz.
+________________
+
+
+RESUMEN EJECUTIVO
+Enrique escribe como un profesional que sabe lo que hace y no necesita explicarlo demasiado. Su voz es la de alguien que habla de frente, sin rodeos, con un punto de urgencia práctica: "esto viene, prepárate". No busca lucirse; busca ser útil. Usa frases cortas para rematar y frases más largas para contextualizar, alternando ambas con cierto ritmo natural. Su tono es directo pero accesible, con poca carga emocional y mucha orientación a la acción. En los posts recientes ha evolucionado hacia una escritura más suelta e impactante; en los posts de hace 2 años el estilo era más formal, más denso, y con menos personalidad.
+________________
+
+
+1. ESTRUCTURA DEL POST
+Apertura: Predominan dos patrones. El primero es la afirmación directa con implicación urgente: una fecha concreta, un hecho inminente, una realidad que obliga a actuar ("El 5 de octubre de 2026, el transporte dice adiós al papel"). El segundo patrón es la instrucción directa al lector: "Si vas a estar en el SIL Barcelona, márcate esta fecha en la agenda." Ambos patrones evitan el contexto previo y van al grano desde la primera línea.
+Desarrollo: Sigue un esquema claro de contexto-problema-solución-acción. Primero establece la relevancia del tema (una normativa, un evento, una realidad del sector), luego expone las implicaciones prácticas, y cierra con una llamada a la acción concreta. En los posts con listados usa guiones (—) o emojis checkmark (✔️) para estructurar la información. En los posts narrativos usa párrafos cortos separados por línea en blanco. Los posts de hace 2 años eran más expositivos y menos persuasivos: presentaban hechos de forma más neutral y académica.
+Cierre: Siempre cierra con una CTA explícita apuntando al primer comentario ("Te dejo el enlace en el primer comentario", "Tienes el enlace para unirte en el primer comentario"). En los posts de reposteo el cierre es una frase corta casi telegráfica ("Os esperamos!"). Los cierres nunca son preguntas abiertas ni reflexiones; son siempre instrucciones o invitaciones directas.
+Longitud: Los posts propios recientes tienen entre 150 y 350 palabras. Los posts de hace 2 años eran más cortos en apariencia pero más densos semánticamente (párrafos compactos de 3-4 frases). La variación de longitud existe pero no es extrema; no hay posts de 1 párrafo ni posts de 800 palabras.
+Formato de párrafos: Párrafos muy cortos (1-3 frases) con línea en blanco entre cada uno. Sin excepción. Esta es quizás su marca de estilo más consistente y visible.
+________________
+
+
+2. FORMATO VISUAL
+Emojis: Los usa con moderación estratégica, no de forma decorativa. Aparecen 1-3 emojis por post, siempre en posiciones funcionales: señalando lugar (📍), marcando tiempo o urgencia (⏳), indicando elemento de lista (✔️), o señalando la CTA (👇). Nunca al inicio del post como gancho emocional. Nunca como adorno al final de párrafos. Los emojis de los posts recientes son más frecuentes que en los de hace 2 años (donde prácticamente no los usaba).
+Negritas: No usa negritas en el cuerpo del texto en los posts recientes. En los posts de hace 2 años tampoco. Cuando necesita destacar algo, lo hace a través de la estructura (poner ese elemento en párrafo propio) o con los emojis funcionales, no con negrita.
+Bullets y numeración: No usa bullets tradicionales (•). Usa guiones largos (—) para listar ponentes o participantes en eventos. Usa emojis de check (✔️) para listar beneficios o puntos de temario. En los posts de hace 2 años no usaba ni unos ni otros: el texto fluía en párrafos.
+Mayúsculas para énfasis: No usa MAYÚSCULAS para enfatizar. El énfasis lo consigue a través del ritmo y la posición de las frases.
+Separadores visuales: Usa el guión largo (—) exclusivamente para listas de personas/participantes. No usa separadores visuales del tipo ——— o ···.
+________________
+
+
+3. VOZ Y PERSONA
+Perspectiva: Escribe en primera persona del singular (yo) y del plural (nosotros/desde Visual Trans). Mezcla ambas según el contexto: usa "yo" cuando habla de sus acciones personales ("me sentaré con los expertos", "te dejo el enlace"), y "nosotros" cuando habla en nombre de la empresa ("desde Visual Trans organizamos"). Esta dualidad empresa/persona es consistente y no genera disonancia.
+Interpelación al lector: Interpela directamente usando "tú" de forma natural y frecuente: "para que llegues preparado", "para que te puedas inscribir", "si vas a estar", "te dejo". No usa "vosotros" sistemáticamente aunque en posts más cortos y coloquiales aparece algún "Os esperamos". El trato de tú es consistente y crea proximidad sin ser informal.
+Voz activa vs pasiva: Voz activa casi exclusiva. Las frases tienen sujeto activo claro: "organizamos", "me sentaré", "vamos a aterrizar", "iremos al grano".
+Estilo: Directo, práctico, con algún toque de urgencia. En los posts recientes hay un lenguaje más coloquial y de sector ("iremos al grano", "sin rodeos", "para que no te pille el toro"). En los posts de hace 2 años el estilo era más neutro y casi académico.
+Vulnerabilidad: No comparte vulnerabilidad personal. No hay posts de fracasos, aprendizajes dolorosos ni momentos personales. Su presencia es plenamente profesional y funcional, centrada en el beneficio para el lector.
+________________
+
+
+4. LÉXICO Y CONSTRUCCIONES PROPIAS
+Palabras y expresiones recurrentes:
+* "Te dejo el enlace en el primer comentario" / "Tienes el enlace en el primer comentario"
+* "Sin rodeos"
+* "Iremos al grano"
+* "Para que no te pille el toro"
+* "Está a la vuelta de la esquina"
+* "De profesional a profesional"
+* "Ya no es un proyecto lejano; es una realidad inminente"
+* Uso frecuente de "aterrizar" en sentido figurado (aterrizar conceptos, aterrizar información)
+Conectores característicos: "Por eso", "Sin embargo", "Además", "De esta manera". En los posts recientes aparece más el "Vamos a…" como conector de acción y el punto y coma para unir ideas relacionadas.
+Nivel de tecnicismo: Bajo-medio. Usa terminología del sector (documento de control electrónico, Ley de Movilidad Sostenible, operativa logística, consignatarios) pero siempre la contextualiza o la introduce de forma que alguien de fuera del sector entienda la implicación práctica. No usa jerga tecnológica cruda. El lenguaje busca ser accesible para decision-makers, no para técnicos.
+Longitud de frases: Alterna frases cortas de impacto (5-10 palabras) con frases medianas explicativas (15-25 palabras). No hay frases muy largas y subordinadas (más de 40 palabras). Las frases cortas siempre van solas en su párrafo para maximizar el impacto.
+Metáforas y analogías: Usa expresiones coloquiales como metáforas suaves: "pillarte el toro", "a la vuelta de la esquina", "sin frenar la actividad". No usa analogías elaboradas ni metáforas extendidas.
+________________
+
+
+5. RITMO Y CADENCIA
+Alternancia de longitudes: Sí, es deliberada y consistente. El patrón típico es: frase corta de impacto → párrafo explicativo de 2-3 frases → frase corta de transición o refuerzo → bloque de lista → cierre con CTA. Este ritmo da sensación de dinamismo sin ser errático.
+Frases de una sola línea como recurso de impacto: Sí, las usa con frecuencia en los posts recientes. Ejemplos: "No será una charla teórica. Será una sesión práctica." / "Sin coste y de profesional a profesional." / "Es el momento de resolver dudas antes de que la normativa sea una obligación sancionable." Estas frases aparecen solas, separadas por línea en blanco, justo antes de la CTA.
+Anáforas y paralelismos: Los usa en los listados de los posts de evento (— Nombre, Cargo, Organización / — Nombre, Cargo, Organización). No hay anáforas de tipo "Si haces X / Si haces Y" ni construcciones de paralelismo retórico sofisticado.
+________________
+
+
+6. PATRONES DE ALTO RENDIMIENTO
+(Nota: el volumen es bajo; la confianza en estos patrones es moderada)
+Post #1 — 12 reacciones, 2 comentarios, 313 impresiones
+* Formato: informativo de evento con listado de ponentes (guiones largos)
+* Apertura: "Te dejo los datos del evento…" → instrucción directa, casi íntima
+* Longitud: ~180 palabras
+* Recurso destacado: tono de memo personal, como si le estuviera dando un recado a alguien de confianza. Sin artificio.
+Post #2 — 13 reacciones, 1 comentario, 1 compartido, 324 impresiones
+* Formato: invitación a evento con contexto del valor añadido
+* Apertura: condicional directo ("Si vas a estar en el SIL Barcelona…")
+* Longitud: ~230 palabras
+* Recurso destacado: el "si estás en X, haz Y" como gancho de segmentación inmediata
+Post #4 — 4 reacciones, 1 comentario, 284 impresiones
+* Formato: anuncio de webinar con listado de beneficios (✔️)
+* Apertura: afirmación de fecha + impacto ("el transporte dice adiós al papel")
+* Longitud: ~180 palabras
+* Recurso destacado: combinación de urgencia normativa + beneficio práctico claro
+Patrón común de los posts con mayor engagement: Los posts con más reacciones son los que combinan (a) una apertura con fecha o hecho concreto e inminente, (b) un listado estructurado de contenido/participantes, y (c) una CTA limpia al final. Los posts más narrativos y largos (post #5) tienen menos engagement relativo.
+________________
+
+
+7. LO QUE NUNCA HARÍA
+1. Nunca empieza un post con una pregunta retórica. Su apertura siempre es afirmativa, imperativa o informativa. Las preguntas las usa en el desarrollo, nunca como gancho de apertura.
+2. Nunca escribe párrafos de más de 4-5 líneas. Su escritura es visualmente aireada. Un bloque denso de texto es incompatible con su estilo.
+3. Nunca usa emojis decorativos o acumulados. Nada de 🎉🚀✨ al inicio del post ni cadenas de emojis. Sus emojis son siempre funcionales (🗓️, 📍, ✔️, 👇) y máximo 3 por post.
+4. Nunca comparte reflexiones personales o vulnerabilidad. No hay "hoy aprendí que…", "cometí un error y quiero compartirlo", ni historias personales de fracaso o crecimiento. Su presencia en LinkedIn es estrictamente profesional y orientada al sector.
+5. Nunca cierra con una pregunta abierta al lector. Sus cierres son siempre CTAs o frases conclusivas. El "¿qué piensas tú?" o "¿te has encontrado con esto?" no forma parte de su repertorio.
+________________
+
+
+REGLAS DE ESCRITURA (10-12 reglas en imperativo)
+1. Abre siempre con una frase de menos de 15 palabras que contenga una fecha, un hecho inminente o una instrucción directa. Sin preámbulos, sin contexto previo.
+2. Deja siempre una línea en blanco entre cada párrafo, sin excepción. La respiración visual es parte de la identidad del post.
+3. Usa párrafos de máximo 2-3 frases. Si el párrafo tiene más, divídelo.
+4. Cuando hagas un listado, usa guiones largos (—) para personas/participantes y emojis checkmark (✔️) para beneficios o puntos de contenido. Nunca bullets convencionales.
+5. Cierra siempre con una CTA que apunte al primer comentario. Escríbela en una línea sola, precedida de 👇.
+6. Usa "tú" para interpelar al lector, no "vosotros". El trato es de tú a tú, cercano pero profesional.
+7. Incluye 1-3 emojis por post, únicamente en posiciones funcionales: 📍 para lugares, ⏳ o 📅 para urgencia temporal, ✔️ para listados, 👇 para la CTA final.
+8. No uses negritas en el cuerpo del texto. Si algo merece énfasis, ponlo en su propio párrafo de una sola frase.
+9. Combina la voz personal (yo/me) con la voz empresarial (nosotros/desde Visual Trans) según el contexto de la acción descrita.
+10. Usa al menos una frase corta de impacto antes de la CTA, separada en párrafo propio, que resuma la promesa del post en menos de 15 palabras.
+11. Usa lenguaje del sector (normativa, operativa, digitalización) pero siempre explica la implicación práctica en la frase siguiente. Evita el tecnicismo por el tecnicismo.
+12. Evita las preguntas retóricas de apertura. Si usas una pregunta, que sea en el desarrollo y que sea la pregunta que el lector ya se estaba haciendo ("¿están las empresas preparadas?").
+________________
+
+
+PLANTILLAS DE APERTURA (5 ejemplos basados en sus patrones)
+1. Fecha + impacto de sector: "El [fecha concreta], [industria/empresa] dice adiós a [práctica actual]. [Emoji de urgencia]"
+2. Condicional de segmentación: "Si vas a estar en [evento/lugar], márcate esta fecha en la agenda."
+3. Instrucción directa + contexto mínimo: "Te dejo los datos del [evento/iniciativa] que organizamos desde [empresa]."
+4. Hecho inminente + pregunta implícita en el aire: "[Hecho concreto] está a la vuelta de la esquina. Y la gran pregunta sigue en el aire: ¿están [las empresas/los profesionales] preparados?"
+5. Afirmación directa de valor: "Para que no te pille el toro, el próximo [día y hora] estaremos en directo hablando de [tema]."
+________________
+
+
+PLANTILLAS DE CIERRE (5 ejemplos basados en sus patrones)
+1. CTA al primer comentario (estándar): "👇 Te dejo el enlace para unirte en el primer comentario."
+2. CTA con recordatorio de gratuidad: "Sin coste y de profesional a profesional.\n\n👇 Tienes el enlace en el primer comentario."
+3. CTA con doble acción (evento presencial): "Te dejo el enlace de registro en el primer comentario.\n\nY si quieres pasarte a saludar, nuestro stand es el [stand]. Allí estamos los tres días."
+4. Cierre coloquial de reposteo: "[Frase corta de invitación].\n\nOs esperamos!"
+5. Cierre con frase-resumen de urgencia + CTA: "Es el momento de [acción] antes de que [consecuencia de no actuar].\n\n👇 [Enlace en primer comentario]."
+________________
+
+
+EXPRESIONES Y CONSTRUCCIONES PROPIAS (10-15)
+1. "Te dejo el enlace en el primer comentario" — Su CTA estándar e invariable. Reutilizable directamente.
+2. "Iremos al grano" — Para anunciar un directo o evento donde no habrá relleno.
+3. "Sin rodeos" — Calificativo habitual para describir su estilo de comunicación en eventos.
+4. "Para que no te pille el toro" — Expresión coloquial que usa para motivar la acción antes de una fecha límite.
+5. "Está a la vuelta de la esquina" — Para describir plazos normativos o fechas inminentes.
+6. "De profesional a profesional" — Marca de autenticidad y horizontalidad. Implica que no hay comercialismo detrás.
+7. "Vamos a aterrizar" — Transición hacia el contenido concreto de un listado o temario.
+8. "Voces del sector" — Forma habitual de referirse a los ponentes o participantes de sus eventos.
+9. "No será una charla teórica. Será una sesión práctica." — Construcción de contraste en dos frases cortas para diferenciar el valor del evento.
+10. "Es una realidad inminente" — Para dar peso urgente a una normativa o cambio del mercado.
+11. "El negocio siga rodando" — Metáfora del sector logístico aplicada a la continuidad operativa.
+12. "No es solo software, es responsabilidad legal" — Construcción de contraste para ampliar el alcance de una implicación.
+13. "Vamos a despejar las dudas de última hora" — Fórmula de transición hacia el listado de contenidos de un evento.
+14. "Sin coste" — Frase muy corta, sola, para reforzar la gratuidad sin subrayarla demasiado.
+15. "Desde Visual Trans organizamos" — Fórmula estándar para atribuir la iniciativa a la empresa sin perder la voz personal.
+________________
+
+
+⚠️ Limitación importante del análisis: El perfil muestra actividad reciente intensa (5 posts en el último mes) y actividad histórica de hace ~2 años, pero con un período intermedio no detectado en la interfaz. El análisis de "alto rendimiento" se basa en los posts recientes de mayo-junio 2026. Si se tuviera acceso a los posts del período 2024-2025 (no visibles en el feed público), el perfil podría enriquecerse significativamente. Se recomienda contrastar estas reglas con cualquier post adicional que el propio Enrique pueda proporcionar directamente.

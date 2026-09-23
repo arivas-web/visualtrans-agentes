@@ -20,10 +20,13 @@ negocio conforme se necesiten.
      descripción.
   2. Pidiéndolo explícitamente por su nombre ("usa el agente X para
      ...", "habla directamente con X").
-- `orquestador.md` — el único agente que existe por ahora. Coordina el
-  trabajo entre el resto de agentes cuando estos existan, mantiene una
-  vista general de qué hace cada uno, y ayuda a diseñar agentes nuevos
-  con un estilo consistente.
+- `orquestador.md` — coordina el trabajo entre el resto de agentes,
+  mantiene una vista general de qué hace cada uno, y ayuda a diseñar
+  agentes nuevos con un estilo consistente.
+- `linkedin.md` — gestiona el calendario y la redacción de LinkedIn
+  para el perfil de empresa y los perfiles personales (Emma, Cecilio,
+  Enrique, Laura). Su contexto y voces de cada perfil viven en
+  `linkedin/` al lado de este archivo.
 
 ## Cómo trabajar aquí
 

@@ -1,0 +1,193 @@
+﻿PERFIL DE ESCRITURA — Cecilio Labrada
+Período analizado: junio 2025 → junio 2026 (aprox.) Total de posts analizados: 36 publicaciones propias (+ ~24 compartidos/reposts no incluidos en el análisis estilístico) Volumen: 3 posts propios al mes de media. Volumen bajo-moderado. Confianza del análisis: MEDIA-ALTA (patrones claros y consistentes pese al volumen limitado).
+________________
+
+
+RESUMEN EJECUTIVO
+Cecilio escribe como alguien que ha estado en las trincheras veinte años y ahora enseña sin pretender que enseña. Su voz es directa, técnica pero nunca hermética, y tiene la cadencia de quien habla en una sala pequeña con profesionales del sector: sin florituras, sin relleno. Arranca con datos concretos o escenas cotidianas que el lector reconoce, desarrolla con lógica de informe ejecutivo (problema → causa → solución o implicación), y cierra dejando una idea en el aire o devolviendo la pelota al lector. Lo que más lo distingue es el contraste deliberado entre frases cortas de impacto y párrafos analíticos más elaborados, y la costumbre de hacer preguntas que suenan a conversación, no a relleno de CTA.
+________________
+
+
+1. ESTRUCTURA DEL POST
+Apertura Utiliza cuatro tipos de apertura según el objetivo del post:
+* Pregunta retórica con dato integrado (el más frecuente): "¿Sabías que existe un código arancelario que le está costando a las empresas españolas millones de euros en 'impuestos invisibles' cada año?"
+* Declaración/afirmación corta impactante con continuación dialógica: "El teléfono suena. Es un cliente importante. '¿Dónde está mi contenedor?'" — arranque de escena cinematográfica.
+* Dato estadístico sin contexto previo: "0802908500 vs. 2008199900 — Dos códigos TARIC. 3.800 € de diferencia en aranceles para un contenedor estándar."
+* Frase breve + anuncio con carga emocional: "Hay noticias que dan gusto compartir, y esta es una de ellas."
+Desarrollo Predomina la estructura problema → implicación/causa → solución o reflexión. En posts de análisis sectorial usa el formato de resumen ejecutivo por categorías (con emojis de colores como bullets visuales). En posts de producto/caso de cliente mezcla el storytelling con la argumentación funcional. No hace storytelling personal largo: cuando hay historia, es breve (2-3 frases de situación) y pasa rápido a la sustancia.
+Cierre Tres patrones de cierre dominantes:
+1. Pregunta abierta al lector (el más frecuente): "¿Preparados para este cambio? ¿Cómo lo estáis abordando?" — da la sensación de seguir la conversación, no cerrarla.
+2. Remate sentencioso de una sola línea que resume todo el post: "La visibilidad en tiempo real ya no es un lujo, es el estándar."
+3. CTA funcional + enlace en comentarios: "Os dejo la noticia en el primer comentario 👇" — aparece en posts informativos/de curación.
+Longitud Alta variación intencional. Tres categorías claras:
+* Posts cortos (100-250 palabras): anuncios, posts de evento/asistencia, reflexiones flash. Representan aprox. 30% del total.
+* Posts medios (250-450 palabras): la categoría más frecuente (~45%). Análisis de producto, casos de cliente, reflexiones con datos.
+* Posts largos (450-700 palabras): análisis de sector/informe, posts técnicos con estructura numerada (~25%).
+Párrafos y espaciado Deja siempre una línea en blanco entre párrafos. Nunca escribe en bloque compacto. Los párrafos tienen entre 1 y 4 frases. Frecuentemente usa párrafos de una sola frase como puntos de impacto.
+________________
+
+
+2. FORMATO VISUAL
+Emojis Uso moderado y funcional, no decorativo. Media de 1-3 emojis por post. Los usa en tres posiciones:
+* Como bullet visual en listas (🔴, 🚛, 🚂, ✈️, 1️⃣, 2️⃣, ➡️, ☑️)
+* Al final de párrafo o frase como refuerzo emocional (🌍, 💸, 🚩, 😀)
+* Como señalador de CTA (👇) Nunca abre el post con emoji. Los usa dentro del texto, no antes del título ni al inicio del primer párrafo.
+Negritas Las usa de forma selectiva para resaltar titulares de sección dentro de listas (ej: "IMPORT vs EXPORT", "POR TIERRA") y para cifras clave o etiquetas. No las usa en prosa corrida para enfatizar palabras sueltas.
+Bullets y numeración Usa numeración con emojis (1️⃣, 2️⃣, 3️⃣) en listas de características técnicas o pasos. En análisis de datos usa estructura tipo titular en negrita: explicación (sin guiones ni puntos de lista formales). Rara vez usa viñetas con guiones convencionales, aunque aparece ocasionalmente con el guion largo (—) para listas de nombres/ponentes.
+Mayúsculas Usa mayúsculas para cabeceras de sección en posts de análisis largo (ej: "IMPORT vs EXPORT", "POR TIERRA", "POR AIRE"). No usa mayúsculas para enfatizar palabras sueltas en mitad de frase.
+Separadores visuales No usa líneas de puntos ni separadores tipográficos (—, ···). La estructura visual la consigue con saltos de línea y emojis, no con separadores.
+________________
+
+
+3. VOZ Y PERSONA
+Primera persona dominante, pero con variación táctica:
+* Usa "yo" implícito (verbo en 1ª persona singular) en posts reflexivos y de experiencia personal: "Si algo se me ha marcado con fuego en los 25 años que llevo en el sector...", "He conocido a muchas transitarias...", "Hace unos días, leí una noticia que me hizo pensar."
+* Usa "nosotros" cuando habla como representante de Visual Trans: "Llevamos años trabajando con transitarias", "Vemos día a día con nuestros clientes", "Hemos visto empresas pagar..."
+* Combina ambas en el mismo post sin conflicto, pasando de la experiencia personal a la voz corporativa de forma natural.
+Interpelación al lector Interpela de forma recurrente pero sin resultar agresivo. Usa:
+* "¿Te suena esta película?" — apelación a experiencia compartida
+* "¿Preparados para este cambio?" — pregunta de comunidad
+* Tú implícito en instrucciones: "Introduces código TARIC + país de origen → ves..."
+* "Os dejo el enlace en el primer comentario" — mezcla vosotros y tú (uso indistinto, ligeramente más frecuente el vosotros en cierre)
+Voz activa casi exclusiva. Las construcciones pasivas son anecdóticas y siempre en citas o datos de terceros.
+Estilo Conversacional-técnico. No es informal (no hay argot coloquial, no hay humor burdo), pero tampoco es corporativo. Es el tono de un directivo que domina su sector y habla con pares: directo, con criterio, sin necesidad de impresionar con vocabulario complejo. Cuando el tema es técnico (aranceles, H1, TARIC) usa la jerga sectorial con naturalidad pero siempre la explica o contextualiza en la misma frase.
+Vulnerabilidad vs. distancia profesional Mantiene una distancia profesional media. No comparte vulnerabilidad emocional personal, pero sí admite incertidumbre del sector ("me pregunto si estamos haciendo lo suficiente") y reconoce los problemas antes de ofrecer soluciones. Eso crea proximidad sin intimidad excesiva.
+________________
+
+
+4. LÉXICO Y CONSTRUCCIONES PROPIAS
+Palabras y expresiones repetidas con frecuencia:
+* "el coste que esto supone" / "el coste real"
+* "el problema no es X, el problema es Y" — estructura de corrección
+* "a día de hoy" / "día a día"
+* "no se trata solo de [X], sino de [Y]"
+* "en tiempo real"
+* "sin contar X" — suele aparecer como puntada añadida
+* "lo que nadie [calcula/dice/ve]" (implícito)
+* "más allá de" como conector de elevación
+* "apagando fuegos" — metáfora laboral recurrente
+* "de la visión a la acción"
+* "marcar la diferencia"
+Muletillas y conectores característicos:
+* "Pero" al inicio de párrafo para girar el argumento (muy frecuente)
+* "Porque al final" para el remate filosófico
+* "Y no es una percepción" para validar con datos lo que acaba de decir
+* "¿Te suena esta película?" — frase hecha de reconocimiento compartido
+* "Eso es X" como declaración rotunda después de describir algo
+Nivel de tecnicismo Alto pero accesible. Usa jerga sectorial (TARIC, DUA, H1, eCMR, DCA, BL, TMS, AGV, flete, trazabilidad, consignatario) sin glosarios, pero casi siempre integra la explicación en la misma oración. El lector de fuera del sector puede seguir el hilo aunque pierda algún detalle técnico.
+Longitud de frases Alta variación deliberada. Las frases de apertura e impacto tienen 4-8 palabras. Las frases de desarrollo tienen 18-30 palabras. Los remates tienen 8-15 palabras. Esta alternancia es uno de sus recursos estilísticos más reconocibles.
+Metáforas y analogías Usa metáforas funcionales del mundo físico para explicar conceptos digitales o abstractos: "es una bandera roja gigante", "apagando fuegos", "marcado con fuego", "vivir apagando fuegos", "carburar", "pisar el freno de mano". No inventa metáforas literarias: reutiliza las del sector con precisión.
+________________
+
+
+5. RITMO Y CADENCIA
+Alternancia sistemática corta-larga. Esta es su firma rítmica más identificable. Abre con 1-2 frases muy cortas (a veces de 3-5 palabras cada una), luego desarrolla con oraciones largas, y vuelve a una frase corta para el remate de párrafo o cierre de sección.
+Ejemplo del patrón:
+"El teléfono suena. Es un cliente importante." [3 palabras, 4 palabras] "Bajas el teléfono, abres el email para buscar el último aviso de la naviera, lo cruzas con tu hoja de cálculo..." [26 palabras] "¿Te suena esta película?" [4 palabras]
+Frases de una sola palabra o muy cortas como recurso de impacto: Sí, aunque no tan extremo como otros perfiles. Usa frases de 3-7 palabras como golpe de efecto:
+* "Datos duplicados entre sistemas."
+* "Deiworld se integra en Visual Trans."
+* "La visibilidad en tiempo real ya no es un lujo, es el estándar."
+Paralelismos y anáforas Uso frecuente de estructuras paralelas para crear ritmo en listas y argumentaciones:
+* "Ayer: Superar la distancia (Roma). / Luego: Superar el volumen (Rev. Industrial). / Después: Superar el tiempo (Años 90). / Hoy: Superar la complejidad."
+* "No hablo de joyas, ni de microchips, ni de productos de lujo."
+* "De castigar a comprender. / De señalar a acompañar. / De reaccionar a analizar." (en post compartido, pero que valora y comparte)
+El anáfora con "Cada" también aparece: "Cada cliente tiene su propio reto, su propia estructura, y sus necesidades específicas."
+________________
+
+
+6. PATRONES DE ALTO RENDIMIENTO
+Top 5 posts por engagement total:
+#1 — Post "Del campo de batalla a la IA" (42 reacciones + 4 comentarios = 46 total)
+* Formato: Lista temporal con estructura paralela (Ayer / Luego / Después / Hoy)
+* Apertura: Frase corta de impacto con emoji al final
+* Longitud: Corta (aprox. 120 palabras)
+* Recurso clave: Estructura de evolución histórica + pregunta final abierta de comunidad
+* Imagen: Imagen de apoyo visual fuerte
+#2 — Post "SIL Barcelona post-evento" (34 reacciones + 7 comentarios = 41 total)
+* Formato: Post relacional/de gratitud. Sin listas, prosa directa.
+* Apertura: Afirmación positiva directa ("Buena semana en el SIL Barcelona")
+* Longitud: Muy corta (aprox. 90 palabras)
+* Recurso clave: Tono humano, agradecimiento sincero, fotos del evento
+* Observación: El mayor número de comentarios del corpus → el contenido relacional genera más conversación que el técnico
+#3 — Post "H1 Sistema de Importación" (43 reacciones)
+* Formato: Estructura numerada 1️⃣ 2️⃣ 3️⃣ con pregunta final
+* Apertura: Pregunta directa al sector ("¿Qué cambia con el nuevo sistema de importación H1?")
+* Longitud: Media (aprox. 280 palabras)
+* Recurso clave: Urgencia regulatoria + estructura clara + cierre con pregunta de posicionamiento del lector
+#4 — Post "Deiworld se integra en Visual Trans" (36 reacciones + 1 comentario = 37 total)
+* Formato: Anuncio corporativo con enfoque humano
+* Apertura: "Hay noticias que dan gusto compartir, y esta es una de ellas." — creación de expectativa
+* Longitud: Media (aprox. 200 palabras)
+* Recurso clave: Contraste entre datos numéricos ("500 empresas", "25 países") y cierre emocional ("estar cerca, entender los problemas reales")
+#5 — Post "Código Los demás arancelario" (aprox. 42 reacciones) y Post "Coma y Ribas" (36 reacciones)
+* Apertura pregunta retórica + dato sorprendente
+* Longitud: Media-larga con estructura de pregunta implícita respondida
+* Recurso clave: Dato que desafía la intuición + implicación para el bolsillo del lector
+Patrón común de los posts de alto rendimiento: Los posts con más engagement combinan: (a) dato concreto o situación reconocible, (b) estructura visual clara (numerada o con emojis de categoría), (c) cierre con pregunta de participación, y/o (d) elemento humano/relacional. Los posts técnicos puros sin pregunta final o sin dato sorprendente rinden sistemáticamente por debajo de la media.
+________________
+
+
+7. LO QUE NUNCA HARÍA
+1. No usa titulares grandilocuentes tipo "5 razones por las que [X] cambiará tu vida". Su contenido educativo siempre arranca desde una situación real o un dato técnico, no desde una promesa de transformación personal.
+2. No escribe en bloque sin respirar. Jamás aparece un párrafo de más de 5 líneas sin punto y aparte. La aireación del texto es una constante absoluta.
+3. No hace storytelling emocional personal largo (divorcios, fracasos personales, epifanías vitales). Su experiencia personal aparece como credencial rápida ("en mis 25 años en el sector") no como historia protagonista.
+4. No usa lenguaje hiperbólico del marketing: no escribe "revolucionario", "disruptivo", "game-changer", "increíble", "brutal" para describir productos o ideas. Su adjetivación es sobria y técnica.
+5. No escribe posts de puro ego o vanidad: sus posts de evento/asistencia siempre incluyen un elemento de utilidad para el lector (qué pasó, qué aprendió, a quiénes conoció) o un agradecimiento a terceros. No publica el selfie con el titular del cargo en el texto.
+________________
+
+
+REGLAS DE ESCRITURA (12 reglas en imperativo)
+1. Abre con una frase de menos de 10 palabras o con una pregunta directa que contenga un dato concreto. Sin contexto previo, sin introducción.
+2. Deja siempre una línea en blanco entre párrafos, sin excepción. El texto nunca aparece compacto.
+3. Alterna frases cortas (4-8 palabras) con frases largas (20-30 palabras) dentro del mismo párrafo. El ritmo corto-largo-corto es tu firma.
+4. Nunca abras el post con un emoji. Los emojis van dentro del texto, como bullets o refuerzo de una idea ya expresada en palabras, nunca antes del primer párrafo.
+5. Si hay lista, usa numeración con emojis (1️⃣ 2️⃣ 3️⃣) o subtítulos en negrita, no guiones de lista. En listas de análisis de datos usa el formato "CATEGORÍA EN MAYÚSCULAS: desarrollo" dentro del párrafo.
+6. Cierra con pregunta abierta al lector o con una frase sentenciosa de 8-15 palabras. Nunca cierres con "¿Qué opinas?" o similares genéricos: la pregunta siempre está conectada al tema técnico del post.
+7. Usa "pero" al inicio de párrafo para girar el argumento. Es el conector de pivot más habitual y reconocible de este perfil.
+8. Cuando uses experiencia personal, hazlo en una sola frase de credencial, no como historia protagonista. "En mis X años en el sector he visto que..." y pasa directamente a la sustancia.
+9. Usa el "nosotros" para hablar como empresa y el "yo" implícito para reflexiones personales, alternando en el mismo post si el tema lo requiere. Nunca uses "uno" como impersonal.
+10. Si el post incluye datos numéricos, ponlos en la primera o segunda frase, no como ornamento al final. Los números son el anzuelo, no la decoración.
+11. No uses adjetivos de marketing (revolucionario, disruptivo, excepcional, increíble) para describir tus propios productos o ideas. Usa adjetivos funcionales (preciso, ágil, claro, real, directo).
+12. El post de agradecimiento o post-evento no tiene más de 120 palabras. Es corto, genuino, sin datos de producto y con un elemento de gratitud a terceros por nombre o entidad.
+________________
+
+
+PLANTILLAS DE APERTURA
+1. Pregunta + dato invisible del sector "¿Sabías que [dato sorprendente que afecta al bolsillo o a la operativa del lector]? [Pausa corta]. No hablo de [ejemplo inesperado 1] ni de [ejemplo inesperado 2]. Hablo de [tema real del post]."
+2. Escena cotidiana en 2-3 frases telegráficas "[Verbo de acción + sujeto breve]. [Frase de situación]. [Pregunta de reconocimiento]: '¿[frase que suena a queja real del sector]?'" → Ejemplo real: "El teléfono suena. Es un cliente importante. '¿Dónde está mi contenedor?'"
+3. Dos códigos/cifras en contraste directo "[Código/cifra A] vs. [Código/cifra B]. [Una línea que explica la consecuencia económica]. El producto: [descripción simple]."
+4. Anuncio con expectativa contenida "Hay [tipo de noticia] que [adjetivo emocional positivo] compartir, y esta es una de ellas. [Nombre de la novedad en una sola línea]."
+5. Afirmación histórica o evolutiva "[Nombre del sector/disciplina] es, probablemente, [superlativo contenido]. [Estructura de evolución temporal en líneas paralelas]."
+________________
+
+
+PLANTILLAS DE CIERRE
+1. Pregunta doble de posicionamiento del lector "¿[Pregunta sobre el estado actual de su operativa]? ¿[Pregunta sobre su posición ante el cambio]?" → Ejemplo real: "¿Preparados para este cambio? ¿Cómo lo estáis abordando?"
+2. Sentencia + pregunta de reflexión personal "[Afirmación rotunda que resume el argumento del post]. ¿[Pregunta que invita al lector a compartir su caso concreto]?"
+3. Frase sentenciosa de cierre sin pregunta "[Verbo en presente] + [complemento que eleva la idea]. [Conclusión de una línea que hace irreversible el argumento anterior]." → Ejemplo real: "La visibilidad en tiempo real ya no es un lujo, es el estándar."
+4. CTA con enlace en comentarios "[Una frase que resume la utilidad del recurso externo]. Os dejo [el enlace / la noticia / el informe] en el primer comentario 👇"
+5. Cierre relacional de gratitud "Gracias a [nombre/empresa] por [acción concreta que eleva al otro]. [Frase breve que expresa lo que esa confianza significa sin caer en hipérbole]."
+________________
+
+
+EXPRESIONES Y CONSTRUCCIONES PROPIAS
+1. "El problema no es que [X]. El problema es que [Y]." — corrección de diagnóstico
+2. "Y no es una percepción." — validación con datos de lo que acaba de afirmar
+3. "¿Te suena esta película?" — reconocimiento de situación compartida
+4. "Porque al final, no se trata de [X], sino de [Y]." — remate filosófico
+5. "Pero los números cuentan solo una parte de la historia." — giro humanizador post-dato
+6. "Más allá de [X], me quedo con [Y]." — uso para elevar el mensaje de un evento o logro
+7. "Sin contar [consecuencia adicional]." — puntada de impacto añadida al final de una cifra
+8. "[Dato]. Sin contar [consecuencia]." — estructura de doble golpe
+9. "[Verbo en imperativo / acción]. → [resultado inmediato]" — instrucción técnica de producto
+10. "En este punto, la tecnología deja de ser un extra." — giro de urgencia
+11. "Apagando fuegos" — metáfora laboral para el trabajo reactivo sin visibilidad
+12. "Si algo se me ha marcado con fuego en [X años]..." — arranque de credencial personal
+13. "Carburar" — verbo coloquial técnico para describir que algo funciona bien ("ver cómo carburan las cosas de verdad")
+14. "No es un problema de [X]. Es un problema de [Y]." — reencuadre de causa raíz
+15. "Dar la bienvenida a [persona] y al equipo de [empresa]." — fórmula de integración humana en anuncios corporativos
+________________
+
+
+Nota final sobre confianza del análisis: Con 36 posts propios en 12 meses, el volumen es bajo-moderado. Los patrones estilísticos son consistentes y claros, lo que aumenta la confianza. Sin embargo, los datos de engagement de algunos posts pueden estar incompletos (posts truncados en la carga de la página, algunos sin datos de comentarios visibles). Los 5 posts de alto rendimiento identificados tienen confianza ALTA. Las tendencias de léxico y ritmo tienen confianza ALTA. Los patrones de apertura y cierre tienen confianza MUY ALTA por su recurrencia sistemática.

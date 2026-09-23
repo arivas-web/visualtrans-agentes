@@ -1,0 +1,162 @@
+﻿________________
+
+
+PERFIL DE ESCRITURA — Visual Trans (Página de Empresa)
+Período analizado: Julio 2025 → Junio 2026 Total de posts analizados: 37 publicaciones propias Seguidores al momento del análisis: ~4.896 ⚠️ Nota de confianza: Volumen adecuado para el análisis (>20 posts). Se excluyen posts de reposteo puro (sin texto propio añadido). Confianza alta en los patrones de estilo; confianza media en los patrones de alto rendimiento por ausencia de datos de comentarios en algunos posts.
+________________
+
+
+RESUMEN EJECUTIVO
+Visual Trans escribe como una empresa que sabe que no vende software: vende tranquilidad, cercanía y pertenencia a un sector que tiene identidad propia. Su voz alterna entre el relato emocional sobre personas (clientes, equipo, profesionales del sector) y el contenido práctico con urgencia normativa. El tono es cálido pero firme, nunca corporativo ni frío. Usa frases cortísimas como golpes de efecto y párrafos más largos para contextualizar. La estructura narrativa predominante arranca desde lo concreto (una cita, un dato, una imagen vivida) y termina siempre con el "nosotros" en escena como acompañante, no como protagonista.
+________________
+
+
+1. ESTRUCTURA DEL POST
+Apertura: Emplea cuatro patrones claramente diferenciados según el tipo de contenido. Para posts de personas/clientes: usa una cita textual con comillas ("Mi gente es familia", "Antes, cada expediente eran 15 minutos…") o una frase nominal corta e impactante ("Personas.", "Confianza.", "El legado no se conserva, se impulsa."). Para posts de producto o normativa: usa una pregunta retórica (¿Tu equipo gestiona logística o solo "pica" datos?) o una afirmación de urgencia con fecha concreta ("El 5 de octubre de 2026 el papel deja de ser suficiente…"). Para posts de eventos: usa una descripción situacional en primera persona del plural ("Como cada año, esta semana hemos estado en el SIL Barcelona…"). Para posts corporativos: usa una frase filosófica breve ("Hay decisiones empresariales que son puramente racionales. / Y luego están las que te mueven por dentro.").
+Desarrollo: Tres estructuras dominantes. La primera es el esquema contexto-problema-solución-cierre emocional, típico de los posts de casos de cliente o producto. La segunda es la estructura de listado con emojis numerados o checkmarks, propia de los posts de webinar/evento con puntos de valor. La tercera es el desarrollo narrativo de una sola tesis, donde toda la lógica del post converge en reforzar una emoción o un concepto (cercanía, confianza, orgullo). Esta tercera estructura la usa especialmente en posts de reconocimiento de equipo o de hitos corporativos.
+Cierre: Los cierres son casi siempre de tres tipos. El más frecuente: agradecimiento personalizado con mención de nombre y empresa ("Gracias a Miguel Ángel Yagüe y a todo el equipo de Fripecan por confiar en Visual Trans"). El segundo más frecuente: CTA directa al primer comentario ("Te dejamos el enlace de registro en el primer comentario"). El tercero: pregunta abierta al lector al final del post ("¿Qué tarea del día a día, por pequeña que sea, te gustaría que fuera instantánea?"). Este tercer patrón aparece en posts de reflexión o producto, no en posts de cliente.
+Longitud: Variable y deliberada. Los posts de personas/clientes tienen entre 80 y 180 palabras (cortos e intensos). Los posts de producto o normativa alcanzan las 200-350 palabras con listados. Los posts de evento/congreso son los más breves: 60-120 palabras. No hay posts de más de 400 palabras.
+Párrafos: Casi siempre cortos: 1-2 frases por párrafo, con línea en blanco entre todos. En los posts más emocionales se usa el párrafo de una sola línea como recurso principal de cadencia y ritmo.
+Líneas en blanco: Sí, siempre. Sin excepción. La página respira visualmente: nunca hay bloques compactos de más de 3 líneas seguidas.
+________________
+
+
+2. FORMATO VISUAL
+Emojis: Uso moderado-alto. Entre 1 y 5 emojis por post. La distribución es: emojis al inicio del párrafo para reforzar el tone (✨, 💙, 🚀, 😀), emojis funcionales para listas (✅, 🔹, 1️⃣, 2️⃣), y emoji señalador (👇) para la CTA. Nunca usan emojis al final de cada párrafo de forma genérica. Los emojis son siempre intencionales: marcan cambio de registro o comienzo de elemento de lista. En los posts de personas hay menos emojis (0-1). En los posts de producto hay más (2-5).
+Negritas: No se usan prácticamente. No hay texto en negrita en los posts. Si necesitan enfatizar algo, lo hacen a través de la posición y la brevedad de la frase, nunca con formato visual.
+Bullets y numeración: Dos sistemas. Para listas de 2-4 puntos de igual jerarquía: emojis checkmark (✅) o guiones (—). Para listas de 3+ pasos o dimensiones de un producto: números con emoji (1️⃣ 2️⃣ 3️⃣). Los bullets convencionales (•) nunca aparecen.
+Mayúsculas: No se usan palabras en MAYÚSCULAS para enfatizar. El énfasis es siempre sintáctico.
+Separadores visuales: No usan separadores del tipo ——— ni ···. El único separador es la línea en blanco entre párrafos.
+________________
+
+
+3. VOZ Y PERSONA
+Perspectiva: Predomina la primera persona del plural ("hemos", "estamos", "queremos", "nos hace especial ilusión"). Este "nosotros" es consistente y no suena corporativo: se usa para incluir a toda la organización y construir identidad de equipo. Cuando hablan de un cliente concreto, cambian al narrativo en tercera persona para ceder el protagonismo al cliente.
+Interpelación al lector: Usan el "tú" de forma selectiva y deliberada: principalmente en los posts de webinar o normativa dirigidos al profesional del sector ("sin interrumpir la actividad de tu negocio", "te dejamos el enlace"). En los posts emocionales o de empresa, evitan interpelar directamente y hablan de "quienes confían en nosotros" de forma más amplia.
+Voz activa vs pasiva: Voz activa casi exclusiva. Las frases tienen sujeto claro: "hemos diseñado", "estamos orgullosos", "elegimos estar cerca".
+Estilo: Cálido, directo, con un punto de orgullo contenido. No es el estilo entusiasta-corporativo estándar de las páginas de empresa. Hay una madurez emocional en la escritura: expresan orgullo sin sonar vanidosos, expresan ilusión sin sonar ingenuos. El tono más cercano sería el de un fundador que habla de su empresa con afecto genuino.
+Vulnerabilidad: Moderada. Hay posts que reconocen la dificultad del camino ("Empezar una transitaria no es fácil", "No es solo instalar una herramienta") sin que Visual Trans aparezca como héroe salvador. La empresa se presenta como acompañante del cliente, no como solucionador omnipotente.
+________________
+
+
+4. LÉXICO Y CONSTRUCCIONES PROPIAS
+Expresiones recurrentes:
+* "Confiar en Visual Trans" / "por confiar en nosotros" — aparece en al menos 8 posts
+* "Gracias a [nombre] y a [empresa] por confiar en Visual Trans"
+* "Acompañar" como verbo nuclear de la propuesta de valor
+* "El/La [X] no es un proyecto lejano; es el presente"
+* "Estamos orgullosos de…" — fórmula de cierre de hito
+* "Esto es solo el principio. Y lo mejor está por llegar"
+* "Cuanto más cerca estamos, más lejos llega el sector"
+* "Hacer las cosas bien"
+* "Parte de esta historia"
+* "Enlace en el primer comentario"
+* "Sin coste. Sin compromiso." — fórmula binaria de eliminación de barreras
+Conectores característicos: "Y" al inicio de frase (usado deliberadamente para impacto), "Porque", "Pero también", "Y ahí estáis / Y ahí estamos", "No es solo [X], es [Y]" (construcción de contraste muy frecuente).
+Nivel de tecnicismo: Bajo-medio. Usa terminología del sector (eCMR, CMR, documento de control electrónico, código HS/TARIC, despacho aduanero, transitaria, vForwarding) pero siempre la introduce en contexto. El lector no necesita ser experto para entender el post, pero el lenguaje señala que el autor sí lo es.
+Longitud de frases: Alterna sistemáticamente. Frases cortas de 3-8 palabras para impacto ("El tiempo es el activo más valioso de una transitaria.") y frases medianas de 15-25 palabras para explicar. Las frases más largas (>30 palabras) solo aparecen en los listados de características de producto.
+Metáforas y analogías: Usa metáforas visuales del sector: "La agenda es un castillo de naipes", "una ráfaga de viento intentando derribarla", "hablar el mismo idioma del sector", "el mundo no se detiene". No elabora analogías largas; las metáforas son siempre de una frase.
+________________
+
+
+5. RITMO Y CADENCIA
+Alternancia de longitudes: Es el rasgo más característico y consistente. El patrón predominante en los posts emocionales es: frase larga de contexto → frase corta de contraste → frase larga de desarrollo → frase muy corta de remate. Ejemplo del post "Personas": "En cada empresa, en cada proyecto, en cada desafío, hay un factor que lo cambia todo: quienes están ahí para acompañarte. [larga] / Y en Visual Trans, sabemos que lo que realmente importa es el apoyo que te ofrecemos cuando más lo necesitas. [media] / Rosa Ronda nos muestra una parte de ese esfuerzo, revelando su trabajo diario y la dedicación que hay detrás de cada consulta. [larga] / No es solo un servicio técnico; es una relación de confianza. [corta, de remate]".
+Frases de una sola palabra o muy cortas como recurso: Sí, es uno de sus recursos más reconocibles. Abrir un post con una sola palabra seguida de punto: "Personas.", "Confianza." Esta apertura-golpe es única y característica.
+Anáforas y paralelismos: Uso frecuente y deliberado. El paralelismo "No es solo [X], es [Y]" aparece en múltiples posts. Las anáforas del tipo "Años de cambios, de retos, de innovación. / Años de aprender, adaptarnos y evolucionar…" son características de los posts de celebración de hitos. También usan el paralelismo de acción ("Escuchar. Entender. Acompañar." — tres infinitivos en párrafos separados, sin verbo auxiliar) como construcción de valor de la empresa.
+________________
+
+
+6. PATRONES DE ALTO RENDIMIENTO
+Post #16 — 99 reacciones, 5 comentarios, 25 compartidos
+* «Cuanto más cerca estamos, más lejos llega el sector»
+* Formato: anuncio de fusión/integración empresarial con tono emocional
+* Apertura: cita filosófica de la empresa
+* Longitud: ~180 palabras
+* Recurso destacado: combinación de orgullo contenido + agradecimiento personal + promesa de futuro
+Post #28 — 78 reacciones, 4 comentarios, 19 compartidos
+* "Personas."
+* Formato: post de reconocimiento de equipo (soporte) con vídeo
+* Apertura: una sola palabra seguida de punto
+* Longitud: ~160 palabras
+* Recurso destacado: la apertura de una palabra + el cierre de agradecimiento cargado de emoción
+Post #25 — 47 reacciones, 1 comentario, 8 compartidos
+* "Hay decisiones empresariales que son puramente racionales. Y luego están las que te mueven por dentro."
+* Formato: post de hito corporativo (integración) con tono personal
+* Apertura: contraste argumento racional vs. emocional
+* Longitud: ~150 palabras
+* Recurso destacado: el giro del argumento racional hacia lo emocional en la segunda frase
+Post #30 — 42 reacciones, 4 comentarios
+* "Disfrutando en la Fiesta de la Logística de Algeciras 😀"
+* Formato: post de evento presencial con fotos
+* Apertura: participio presente + emoción directa
+* Longitud: ~80 palabras
+* Recurso destacado: brevedad + autenticidad + cierre con "¡Nos vemos el año que viene!"
+Post #11 — 51 reacciones, 4 compartidos
+* "Y llegó nuestro momento! 😀"
+* Formato: post de ponencia en evento de sector con listado de puntos
+* Apertura: frase corta de celebración
+* Longitud: ~200 palabras
+* Recurso destacado: checkmarks ✅ para listar contenido + agradecimiento institucional al final
+Patrón común de los posts con más engagement: Los posts con mayor reacción son los que tienen un componente emocional de orgullo colectivo (equipo, clientes, hitos) + un tono personal que incluye nombres propios de personas reales. Los posts más técnicos o normativos tienen engagement inferior aunque son los más compartidos en términos relativos.
+________________
+
+
+7. LO QUE NUNCA HARÍA
+1. Nunca empieza un post con "Nos complace anunciar…", "Estamos encantados de…" ni ninguna otra fórmula corporativa estándar. Su apertura siempre es una cita, una tesis, una imagen vívida o una pregunta. El lenguaje de comunicado de empresa no existe en su registro.
+2. Nunca pone el nombre de la empresa en el protagonismo sin que haya un "otro" que la valide. Visual Trans nunca se autopremia sin anclar el mensaje en una voz externa (un cliente, un profesional del sector, un dato). El "nosotros" siempre aparece como consecuencia de algo, no como punto de partida.
+3. Nunca usa párrafos de más de 4 líneas. La escritura densa y apelmazada es incompatible con su identidad visual. Cada párrafo respira.
+4. Nunca aplica lenguaje de ventas directo: no hay "descuentos", "oferta", "compra", "contrata", "tu solución ideal". El producto se menciona de forma contextual, siempre integrado en una historia o en un valor para el lector.
+5. Nunca hace preguntas en la apertura del post que sean puramente retóricas sin responder. Si abre con pregunta ("¿Tu equipo gestiona logística o solo "pica" datos?"), el cuerpo del post la responde directamente. Las preguntas sin responder solo aparecen al final, como invitación a la conversación.
+________________
+
+
+REGLAS DE ESCRITURA (10-12 reglas en imperativo)
+1. Abre con uno de estos cuatro patrones: (a) cita textual del cliente entre comillas, (b) frase nominal sin verbo de 1-4 palabras seguida de punto, (c) pregunta directa al lector con "¿", (d) afirmación con fecha concreta. Nunca uses preámbulos corporativos.
+2. Deja siempre una línea en blanco entre cada párrafo, sin excepción. Máximo 2-3 frases por párrafo.
+3. Cuando el post sea sobre un cliente, cede el protagonismo al cliente. Visual Trans aparece como acompañante, no como héroe. Usa la estructura: [logro/cualidad del cliente] + [la empresa antes] + [cómo Visual Trans ayudó] + [agradecimiento con nombre propio].
+4. Cierra los posts de cliente siempre con "Gracias a [nombre] y a [empresa] por confiar en Visual Trans." Es la firma de cierre más reconocible y consistente. No la cambies.
+5. Usa el contraste "No es solo [X], es [Y]" para elevar cualquier valor funcional a valor emocional. Es el recurso retórico más característico de la voz de la marca.
+6. Para listas de beneficios o puntos de webinar, usa ✅ o 1️⃣/2️⃣/3️⃣. Nunca bullets convencionales.
+7. Usa el "Y" inicial de frase para crear ritmo e impacto. "Y llegó nuestro momento." "Y en Visual Trans, sabemos que…" Es una firma estilística; no lo uses más de 2 veces por post.
+8. Usa nombres propios de personas reales (empleados, clientes, partners) siempre que sea posible. La empresa es una suma de personas, y el lenguaje debe reflejarlo.
+9. Para posts de hitos o logros, usa el patrón emocional-racional: empieza con la emoción ("Hay decisiones que te mueven por dentro"), luego ancla en datos o hechos, y termina con la mirada al futuro ("Esto es solo el principio. Y lo mejor está por llegar.").
+10. Usa series de infinitivos en párrafos separados para describir la propuesta de valor: "Escuchar. Entender. Acompañar." o "Años de aprender, adaptarnos y evolucionar." Cada infinitivo, su propio párrafo.
+11. Incluye la CTA al primer comentario cuando haya un enlace. La fórmula es invariable: "Te dejamos el enlace de registro en el primer comentario." o "Os dejamos un enlace en el primer comentario para que lo podáis probar."
+12. Nunca termines con frases de más de 12 palabras. Los remates finales son siempre cortos, contundentes y con carga emocional. Si hay agradecimiento, es el último elemento del post.
+________________
+
+
+PLANTILLAS DE APERTURA (5 ejemplos reales o basados en sus patrones)
+1. Cita del cliente (patrón más recurrente en posts de alto rendimiento): "[Frase literal del cliente entre comillas, que resuma su experiencia en 1-2 líneas]."
+2. Frase nominal de una palabra: "[Concepto abstracto de valor]." (Ejemplos reales: "Personas.", "Confianza.", o en combinación: "El legado no se conserva, se impulsa.")
+3. Pregunta retórica dirigida al lector: "¿[Situación dolorosa o dilema que el lector del sector reconoce inmediatamente]?"
+4. Afirmación de urgencia con fecha: "El [fecha concreta], [hecho que obliga a actuar] en el transporte de mercancías."
+5. Contraste racional-emocional (para hitos corporativos): "Hay decisiones [adjetivo racional]. / Y luego están las que [efecto emocional]."
+________________
+
+
+PLANTILLAS DE CIERRE (5 ejemplos reales o basados en sus patrones)
+1. Cierre de cliente con agradecimiento personalizado (estándar): "Gracias a [nombre] y a todo el equipo de [empresa] por confiar en Visual Trans."
+2. Cierre de hito con mirada al futuro: "Esto es solo el principio. Y lo mejor está por llegar."
+3. Cierre de evento con invitación a próxima edición: "Gracias a todos los que os pasasteis a saludarnos. ¡Nos vemos el año que viene!"
+4. CTA con eliminación de barreras: "Sin coste. Sin compromiso. / Te dejamos el enlace de registro en el primer comentario."
+5. Cierre con pregunta abierta a comunidad: "¿[Pregunta específica relacionada con el problema del post que invita al lector a responder desde su experiencia]?"
+________________
+
+
+EXPRESIONES Y CONSTRUCCIONES PROPIAS (10-15)
+1. "Por confiar en Visual Trans" — Fórmula de cierre de gratitud. Invariable. Siempre con nombre propio antes.
+2. "No es solo [X], es [Y]" — Construcción de contraste para elevar la dimensión de cualquier elemento. ("No es solo un servicio técnico; es una relación de confianza.")
+3. "Estamos orgullosos de ser [su partner / parte de esta historia]" — Fórmula de posicionamiento relacional, siempre en referencia al cliente.
+4. "Esto es solo el principio. Y lo mejor está por llegar." — Cierre de hitos corporativos.
+5. "Hablar el mismo idioma del sector" — Expresión de posicionamiento diferencial.
+6. "Cuanto más cerca estamos, más lejos llega el sector" — Su tagline emocional más potente.
+7. "Escuchar. Entender. Acompañar." — Serie de infinitivos como propuesta de valor condensada.
+8. "El cambio tecnológico en [ámbito] no es futuro, es presente" — Construcción de urgencia para temáticas normativas o tecnológicas.
+9. "Te dejamos el enlace de registro en el primer comentario" — CTA estándar e invariable para eventos y webinars.
+10. "[Logro] contado con pasión" / "una historia de crecimiento real" — Fórmula para describir los casos de cliente.
+11. "Años de [X], de [Y] y de [Z]. Años de [A], [B] y [C]." — Estructura de anáfora temporal para celebrar trayectoria.
+12. "Y en Visual Trans, sabemos que lo que realmente importa es…" — Transición hacia la propuesta de valor emocional.
+13. "Nació para ser [X]. Pero para mantener esa promesa, necesitaban [Y]." — Estructura narrativa para introducir el reto del cliente.
+14. "Sin fricciones. Sin curvas de aprendizaje imposibles." — Frases binarias cortas para describir la experiencia de uso del producto.
+15. "¡Nos vemos el año que viene!" — Cierre característico de posts de eventos presenciales con fotos.
