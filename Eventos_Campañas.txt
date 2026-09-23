@@ -1,0 +1,50 @@
+# Eventos y Campañas
+
+Registro de ferias, eventos del sector, webinars propios, lanzamientos de producto y
+campañas comerciales activas que condicionan el calendario editorial de LinkedIn.
+
+Este archivo lo alimentan:
+- El agente-archivista, al clasificar entradas de INBOX.md relacionadas con eventos/campañas.
+- El agente-investigador, al detectar ferias o hitos normativos con fecha durante su
+  investigación autónoma mensual.
+
+Formato de cada entrada (mantener este formato para que el agente-calendario y el
+agente-investigador puedan parsearlo sin ambigüedad):
+
+## [Nombre del evento/campaña]
+- Tipo: Feria / Webinar propio / Lanzamiento de producto / Cambio normativo con fecha / Campaña comercial
+- Fecha(s): dd/mm/aaaa (o rango)
+- Relevancia: qué perfiles debería tocar y por qué (p. ej. "Enrique y Emma — autoridad en eventos/normativa")
+- Estado: Activo / Pasado / Confirmado / Tentativo
+- Fuente: de dónde sale el dato (INBOX, investigación web, briefing histórico)
+- Notas: cualquier condicionante para el calendario (escasez de plazas, ponentes confirmados, etc.)
+
+---
+
+<!-- No hay eventos ni campañas registrados todavía. El agente-archivista y el
+agente-investigador añadirán entradas aquí con el formato anterior. No borrar esta
+plantilla de cabecera al añadir la primera entrada real. -->
+
+## Conxemar 2026
+- Tipo: Feria
+- Fecha(s): 06/10/2026 - 08/10/2026
+- Relevancia: Presencia física de Visual Trans en stand, junto al Clúster da Función Loxística — perfil(es) a determinar por agente-calendario
+- Estado: Confirmado
+- Fuente: INBOX
+- Notas: Visual Trans estará en el stand 2A01, junto con el Clúster da Función Loxística.
+
+## XIV Congreso FETEIA 2026
+- Tipo: Feria
+- Fecha(s): 01/10/2026 - 04/10/2026
+- Relevancia: Congreso de referencia para transitarios, logística y aduanas; aborda retos estratégicos del comercio internacional — perfil(es) a determinar por agente-calendario
+- Estado: Confirmado (evento del sector; la entrada de INBOX no especifica participación directa de Visual Trans)
+- Fuente: INBOX
+- Notas: Se celebra en Tenerife, organizado por FETEIA-OLTRA. Temas previstos: novedades en materia aduanera, aplicación práctica de nuevas regulaciones, impacto de la futura Ley de Movilidad Sostenible, relevo generacional y transformación del sector. Reúne a expertos, representantes de la Administración y empresas de la cadena logística, con sesiones técnicas, estratégicas y espacios de networking.
+
+## DeCA obligatorio
+- Tipo: Cambio normativo con fecha
+- Fecha(s): 05/10/2026
+- Relevancia: Cambio normativo con fecha concreta de entrada en vigor — perfil(es) a determinar por agente-calendario
+- Estado: Confirmado
+- Fuente: INBOX
+- Notas: El día 5 de octubre de 2026 el DeCA será obligatorio (texto tal cual en la entrada de INBOX, sin más contexto ni desarrollo del acrónimo). Puede requerir ampliación por parte del agente-investigador.

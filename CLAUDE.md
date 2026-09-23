@@ -5,11 +5,9 @@ agentes especializados (subagentes de Claude Code) para **Visual
 Trans / Visual MS**, empresa española de software B2B para
 logística/aduanas (eCMR, DUA, Intrastat, ICS2, AEAT, Verifactu).
 
-No sustituye a otros montajes puntuales que ya existan para temas
-concretos (p. ej. el coordinador de contenidos de LinkedIn en
-`agente-linkedin-coordinador/`). Esta carpeta es el hogar general
-donde se irán añadiendo agentes especializados de distintas áreas del
-negocio conforme se necesiten.
+Es el hogar general donde se van consolidando los sistemas de agentes
+de distintas áreas del negocio conforme existen — el primero en
+migrarse aquí es el sistema de contenido de LinkedIn (ver más abajo).
 
 ## Estructura
 
@@ -20,24 +18,173 @@ negocio conforme se necesiten.
      descripción.
   2. Pidiéndolo explícitamente por su nombre ("usa el agente X para
      ...", "habla directamente con X").
+- `.claude/commands/` — comandos de barra (`/nombre-comando`) que
+  actúan como orquestadores de un flujo concreto, invocando a varios
+  subagentes en orden. `/pipeline-mensual` es el primero.
 - `orquestador.md` — coordina el trabajo entre el resto de agentes,
   mantiene una vista general de qué hace cada uno, y ayuda a diseñar
-  agentes nuevos con un estilo consistente.
-- `linkedin.md` — gestiona el calendario y la redacción de LinkedIn
-  para el perfil de empresa y los perfiles personales (Emma, Cecilio,
-  Enrique, Laura). Su contexto y voces de cada perfil viven en
-  `linkedin/` al lado de este archivo.
+  agentes nuevos con un estilo consistente. Es un agente de propósito
+  general, distinto de los orquestadores específicos de un flujo (como
+  `/pipeline-mensual`).
 
 ## Cómo trabajar aquí
 
 - La sesión por defecto (esta misma, la que ves al abrir Claude Code
   en esta carpeta) es de propósito general: puede resolver cosas
   sueltas directamente o delegar.
-- Para tareas de coordinación, planificación entre varios agentes, o
-  para pedir un estado general del "ejército", invoca al agente
-  **orquestador**.
-- Para tareas de un dominio muy concreto, una vez existan agentes
-  especializados, se les puede hablar directamente sin pasar por el
+- Para tareas de coordinación general o para pedir un estado del
+  "ejército", invoca al agente **orquestador**.
+- Para un flujo de trabajo concreto ya definido (como el mensual de
+  LinkedIn), usa su comando dedicado en vez de pedirlo suelto.
+- Para tareas puntuales de un dominio muy concreto, puedes hablar
+  directamente con el agente especializado, sin pasar por el
   orquestador.
 - Los agentes nuevos se añaden como archivos sueltos en
-  `.claude/agents/`, siguiendo el mismo formato que `orquestador.md`.
+  `.claude/agents/`.
+
+---
+
+## Sistema LinkedIn — pipeline mensual
+
+Migrado el 2026-09-23 desde el repo independiente `arivas-web/linkedin-agent`
+(commit `6d617fb`), que queda archivado sin recibir más commits nuevos —
+este repo pasa a ser el único sitio donde vive y se ejecuta.
+
+Arquitectura de agente orquestador + subagentes casi 100% autónoma para
+generar el calendario editorial mensual de LinkedIn (~65-70 posts/mes en 5
+perfiles), con un único punto de fricción humana intencional: la validación
+del calendario mensual antes de redactar ningún post. Objetivo de negocio:
+100.000 impresiones/mes.
+
+### Cómo lanzar el pipeline completo
+
+```
+/pipeline-mensual octubre 2026
+```
+
+Una sola invocación ejecuta todo el flujo de principio a fin: procesa
+`INBOX.md`, investiga tendencias/normativas/eventos del mes, construye el
+calendario, redacta los posts de los 5 perfiles, genera una presentación
+(.pptx) con un post por diapositiva para revisión visual, y los valida
+contra las restricciones absolutas. No pide confirmación en ningún punto
+**salvo uno**: en cuanto el calendario está construido, lo envía como
+Google Sheets por correo a `arivas@visualtrans.com` y el pipeline se
+detiene ahí hasta que se valida la conversación (en el chat, no en el
+propio Sheets). Tras esa confirmación, continúa solo hasta el final sin
+más pausas. El comando está definido en
+`.claude/commands/pipeline-mensual.md`.
+
+Todo el trabajo del pipeline (cada fase, cada ronda de corrección) se
+comitea y pushea automáticamente a `main` sin pedir confirmación en cada
+paso (ver "Git y entrega continua" más abajo) — esta rama es compartida
+con el orquestador y el resto de agentes de este repo.
+
+### Tu único trabajo manual: `INBOX.md`
+
+Escribe ahí, en cualquier momento, cualquier cosa suelta: una noticia, un
+evento nuevo, un cambio de tono para un perfil, un pain nuevo, una campaña
+que se activa, un caso de éxito disponible. Sin formato obligatorio, solo
+con fecha delante. La próxima vez que corra `/pipeline-mensual`, el
+`agente-archivista` la clasifica, la incorpora al archivo estructurado
+correspondiente y la mueve a `INBOX_procesado.md` con fecha de proceso
+(histórico, nunca se borra). No hace falta tocar ningún otro archivo ni
+relanzar nada aparte del comando habitual.
+
+### Dónde viven los datos de este sistema
+
+```
+/INBOX.md                      ← tú escribes aquí libremente
+/INBOX_procesado.md            ← histórico de lo ya incorporado (auditable)
+/Contexto_Visual_Trans.txt     ← productos, propuesta de valor, argumentario
+/Pains_Unificados.txt          ← los pains numerados con descripción completa
+/Eventos_Campañas.txt          ← ferias, webinars, lanzamientos, normativas con fecha, campañas
+/Voz_VT.txt                    ← documento de voz — Visual Trans (empresa)
+/Voz_Ceci.txt                  ← documento de voz — Cecilio Labrada
+/Voz_Emma.txt                  ← documento de voz — Emma González
+/Voz_Enrique.txt               ← documento de voz — Enrique Saa
+/Voz_Laura.txt                 ← documento de voz — Laura Díaz
+/output/[mes-año]/briefing.md          ← investigación del mes
+/output/[mes-año]/calendario.md        ← calendario completo en markdown
+/output/[mes-año]/posts/[perfil].md    ← posts redactados, uno por perfil
+/output/[mes-año]/validacion.md        ← informe del agente-validador
+/output/[mes-año]/log-decisiones.md    ← auditoría de decisiones autónomas
+```
+
+Estos archivos de datos (voz, contexto, pains, eventos, inbox) viven en la
+**raíz de este repo**, no dentro de `.claude/`, porque los subagentes los
+leen con una ruta simple y relativa (`Read Voz_Ceci.txt`) — así se hizo en
+el sistema original y se ha mantenido igual en la migración para no romper
+esas rutas. Si en el futuro se añaden agentes de otras áreas del negocio
+con sus propios ficheros de datos, conviene darles su propia carpeta en
+vez de sumarlos también a la raíz.
+
+### Arquitectura de agentes
+
+**Orquestador de este flujo** = el comando `/pipeline-mensual` (no es un
+subagente propio; es el hilo principal de Claude Code siguiendo las
+instrucciones de `.claude/commands/pipeline-mensual.md`). Coordina la
+invocación de los subagentes en orden, decide en los puntos ambiguos, y
+mantiene el log de decisiones. Es distinto del agente **orquestador**
+general de este repo (ver arriba), que coordina entre sistemas de agentes,
+no dentro de uno.
+
+**Subagentes** (`.claude/agents/`), cada uno con contexto aislado y
+responsabilidad única:
+
+| Agente | Responsabilidad |
+|---|---|
+| `agente-archivista` | Procesa `INBOX.md`, clasifica y vuelca a los archivos estructurados |
+| `agente-investigador` | Investiga tendencias, normativas, ferias y decide el pain prioritario del mes |
+| `agente-calendario` | Construye el calendario aplicando pilares, no-solapamiento de pains y asignación por perfil; lo envía como Google Sheets por correo a `arivas@visualtrans.com` |
+| `agente-redactor` | Redacta los posts de un perfil concreto (se invoca 1 vez por perfil, parametrizado, en paralelo) |
+| `agente-presentacion` | Construye un .pptx con un post por diapositiva a partir de lo ya redactado, para revisión visual — entregable auxiliar, no bloquea el pipeline |
+| `agente-validador` | Verifica el resultado final contra las restricciones absolutas antes de entregar |
+
+`agente-redactor` es un único agente parametrizable en vez de 5 agentes
+separados: el orquestador del pipeline lo invoca cinco veces (una por
+perfil, en paralelo) indicándole en el prompt de la tarea qué perfil le
+toca y qué documento de voz debe leer.
+
+### Reglas de negocio
+
+- Distribución de pilares: 60% Noticias, 30% Pains, 10% Casos de éxito
+  (los casos de éxito **nunca se redactan** — solo se reserva el slot
+  `CASO DE ÉXITO — pendiente Adrián`).
+- No-solapamiento de pains: nunca el mismo pain el mismo día en dos
+  perfiles, nunca en días consecutivos del mismo perfil, máximo 2
+  apariciones por pain al mes.
+- Asignación de pains por perfil según voz y audiencia (ver
+  `agente-calendario.md`).
+- Patrones de alto rendimiento específicos por perfil (ver cada
+  `Voz_[perfil].txt`).
+- Restricciones absolutas: nunca lenguaje de venta directa, solo días
+  laborables, cierres obligatorios por perfil, voz nunca improvisada ni
+  mezclada entre perfiles.
+
+Estas reglas viven repartidas entre los documentos de voz (`Voz_*.txt`),
+los datos de negocio (`Contexto_Visual_Trans.txt`, `Pains_Unificados.txt`)
+y las reglas de distribución fijas embebidas en `agente-calendario.md` —
+no hace falta mantener una copia separada: cada subagente lee lo que
+necesita de estos archivos en tiempo de ejecución.
+
+### Git y entrega continua
+
+El pipeline comitea y pushea directamente a `main` después de cada fase
+que produzca archivos nuevos o modificados (Fase 0, Fase 1, Fase 2
+—incluidas sus rondas de corrección—, Fase 3, Fase 3.5 y Fase 4) sin pedir
+confirmación al usuario en cada paso. Esta autorización es permanente y no
+debe volver a solicitarse en cada ejecución del pipeline; es independiente
+de la única pausa real del sistema (la validación del calendario en Fase
+2), que sigue siendo exclusivamente sobre el contenido, no sobre git. Las
+protecciones generales de git siguen intactas: nunca `--force`, nunca
+`--no-verify`, nunca reescribir historia ajena.
+
+### Auditoría
+
+Cada ejecución del pipeline genera su propio
+`output/[mes-año]/log-decisiones.md` con todo lo que antes requería
+aprobación manual: qué tendencias se eligieron y por qué, qué pain se
+priorizó, qué entradas de INBOX quedaron marcadas como "requiere revisión",
+y el resultado de la validación final. El pipeline nunca se detiene a
+esperar respuesta a este log — es para auditar el resultado *después*, no
+para bloquear la ejecución.
