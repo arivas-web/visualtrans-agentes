@@ -11,13 +11,9 @@ Una brújula. Ese fue el obsequio del Día del Consignatario en Barcelona.
 
 Allí estuvieron nuestros compañeros Emma González, Cecilio Labrada y Santiago González.
 
-La jornada, organizada por la Asociación de Agentes Consignatarios de Buques de Barcelona, tuvo un recuerdo emotivo para Alex Ferrandiz.
+Una jornada organizada por la Asociación de Agentes Consignatarios de Buques de Barcelona que, un año más, reunió al sector consignatario. Esta edición tuvo un recuerdo muy emotivo para Alex Ferrandiz.
 
-La brújula no elige el destino ni evita los imprevistos. Ayuda a orientarse.
-
-Decidir hacia dónde ir, corregir cuando toca o atreverse a explorar caminos nuevos sigue siendo cosa de personas.
-
-Mantener el rumbo no es quedarse quieto; es adaptarse y decidir.
+La brújula fue el regalo para los patrocinadores y el hilo del discurso de cierre: ayuda a orientarse, pero el rumbo lo marcan las personas.
 
 Hoy seguimos en ruta 🧭 El equipo está en el congreso de FETEIA-OLTRA, en Tenerife.
 
