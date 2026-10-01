@@ -15,7 +15,7 @@ Hubo un recuerdo emotivo para Alex Ferrandiz. Y a los patrocinadores se les entr
 
 La brújula no elige el destino ni evita los imprevistos. Ayuda a orientarse.
 
-Con tanta tecnología e información, las herramientas nos ayudan a anticiparnos. Pero decidir, corregir o atreverse a explorar sigue siendo cosa de personas.
+Decidir hacia dónde ir, corregir cuando toca o atreverse a explorar caminos nuevos sigue siendo cosa de personas.
 
 Mantener el rumbo no es quedarse quieto; es adaptarse y decidir.
 
