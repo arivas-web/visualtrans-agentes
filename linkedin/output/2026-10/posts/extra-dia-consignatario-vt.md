@@ -7,11 +7,11 @@ TEMA: Día del Consignatario en Barcelona (Asociación de Agentes Consignatarios
 FORMATO: imagen
 ---
 
-Rumbo.
+Una brújula. Ese fue el obsequio del Día del Consignatario en Barcelona.
 
-Así cerró el Día del Consignatario en Barcelona, organizado por la Asociación de Agentes Consignatarios de Buques de Barcelona. Allí estuvimos Emma González, Cecilio Labrada y Santiago González.
+Allí estuvieron nuestros compañeros Emma González, Cecilio Labrada y Santiago González.
 
-Hubo un recuerdo emotivo para Alex Ferrandiz. Y a los patrocinadores se les entregó una brújula.
+La jornada, organizada por la Asociación de Agentes Consignatarios de Buques de Barcelona, tuvo un recuerdo emotivo para Alex Ferrandiz.
 
 La brújula no elige el destino ni evita los imprevistos. Ayuda a orientarse.
 
