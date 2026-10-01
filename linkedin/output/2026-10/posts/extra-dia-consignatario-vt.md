@@ -21,9 +21,7 @@ Mantener el rumbo no es quedarse quieto; es adaptarse y decidir.
 
 Hoy seguimos en ruta 🧭 El equipo está en el congreso de FETEIA-OLTRA, en Tenerife.
 
-Un punto de encuentro del sector que se agradece.
-
-Gracias a Rocío Corredera y a toda la organización.
+Gracias a toda la organización.
 
 ---
 
